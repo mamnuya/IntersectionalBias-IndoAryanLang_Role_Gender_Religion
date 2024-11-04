@@ -1,0 +1,3018 @@
+{
+    "Hindu_Male_Hindi-Urdu_Partner": [
+        {
+            "type": "unigrams",
+            "term": "indian",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "unigrams",
+            "term": "today",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Hindi-Urdu_Child": [
+        {
+            "type": "unigrams",
+            "term": "muslim",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "mother muslim",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "father mother muslim",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Hindi-Urdu_Sibling": [
+        {
+            "type": "unigrams",
+            "term": "god",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "unigrams",
+            "term": "often",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Hindi-Urdu_Friend": [
+        {
+            "type": "unigrams",
+            "term": "month",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Hindi-Urdu_Neighbor": [
+        {
+            "type": "unigrams",
+            "term": "house",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "lives house",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Bengali_Partner": [
+        {
+            "type": "bigrams",
+            "term": "help stay",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Bengali_Parent": [
+        {
+            "type": "unigrams",
+            "term": "strong",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "unigrams",
+            "term": "desire",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Bengali_Child": [
+        {
+            "type": "unigrams",
+            "term": "boy",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        },
+        {
+            "type": "unigrams",
+            "term": "activities",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "read write",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "bigrams",
+            "term": "born family",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Bengali_Colleague": [
+        {
+            "type": "unigrams",
+            "term": "information",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Bengali_Neighbor": [
+        {
+            "type": "unigrams",
+            "term": "music",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "500",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        },
+        {
+            "type": "bigrams",
+            "term": "listening music",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Punjabi_Partner": [
+        {
+            "type": "unigrams",
+            "term": "create",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "bigrams",
+            "term": "help keep",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "bigrams",
+            "term": "way keep",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "trigrams",
+            "term": "help keep track",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "trigrams",
+            "term": "way keep track",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Male_Punjabi_Parent": [
+        {
+            "type": "unigrams",
+            "term": "english",
+            "count_in_identity": 5,
+            "shared_in_other_identities": 4
+        },
+        {
+            "type": "unigrams",
+            "term": "goals",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Punjabi_Child": [
+        {
+            "type": "unigrams",
+            "term": "cricket",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Male_Punjabi_Friend": [
+        {
+            "type": "bigrams",
+            "term": "female hindi",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Hindu_Male_Marathi_Partner": [
+        {
+            "type": "unigrams",
+            "term": "strong",
+            "count_in_identity": 5,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "unigrams",
+            "term": "sense",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "strong sense",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "least one",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Marathi_Parent": [
+        {
+            "type": "bigrams",
+            "term": "year old",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Male_Marathi_Friend": [
+        {
+            "type": "unigrams",
+            "term": "new",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        },
+        {
+            "type": "unigrams",
+            "term": "100",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Male_Marathi_Colleague": [
+        {
+            "type": "unigrams",
+            "term": "done",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "unigrams",
+            "term": "well",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Male_Marathi_Neighbor": [
+        {
+            "type": "unigrams",
+            "term": "watching",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "movies",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "watching movies",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "must include",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Gujarati_Partner": [
+        {
+            "type": "unigrams",
+            "term": "sample",
+            "count_in_identity": 5,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Male_Gujarati_Parent": [
+        {
+            "type": "unigrams",
+            "term": "includes",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Hindu_Male_Gujarati_Child": [
+        {
+            "type": "unigrams",
+            "term": "main",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "language culture",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "family parents",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "5 years old",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Male_Gujarati_Sibling": [
+        {
+            "type": "trigrams",
+            "term": "5 6 7",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Gujarati_Friend": [
+        {
+            "type": "unigrams",
+            "term": "others",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "unigrams",
+            "term": "speaker",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "6",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "8 9",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "9 10",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "8 9 10",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "9 10 11",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "10 11 12",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "11 12 13",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Gujarati_Colleague": [
+        {
+            "type": "unigrams",
+            "term": "items",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "unigrams",
+            "term": "15",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "unigrams",
+            "term": "includes",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Hindu_Male_Gujarati_Neighbor": [
+        {
+            "type": "unigrams",
+            "term": "best",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "unigrams",
+            "term": "items",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "unigrams",
+            "term": "god",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Hindu_Male_Bhojpuri_Partner": [
+        {
+            "type": "unigrams",
+            "term": "well",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Male_Bhojpuri_Parent": [
+        {
+            "type": "unigrams",
+            "term": "many",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "rituals",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "practices",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "female married",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "bigrams",
+            "term": "son wife",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "wife female",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "religion based",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Bhojpuri_Child": [
+        {
+            "type": "unigrams",
+            "term": "always",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        },
+        {
+            "type": "unigrams",
+            "term": "b",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "unigrams",
+            "term": "sports",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Bhojpuri_Friend": [
+        {
+            "type": "unigrams",
+            "term": "best",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Male_Maithili_Parent": [
+        {
+            "type": "bigrams",
+            "term": "wife female",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Male_Maithili_Child": [
+        {
+            "type": "unigrams",
+            "term": "characters",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Maithili_Sibling": [
+        {
+            "type": "unigrams",
+            "term": "100",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "unigrams",
+            "term": "god",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "unigrams",
+            "term": "16",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "100 words",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Maithili_Colleague": [
+        {
+            "type": "unigrams",
+            "term": "malayalam",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "books",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "reading books",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Maithili_Neighbor": [
+        {
+            "type": "unigrams",
+            "term": "sample",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "unigrams",
+            "term": "free",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Odia_Partner": [
+        {
+            "type": "unigrams",
+            "term": "suitable",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Odia_Parent": [
+        {
+            "type": "bigrams",
+            "term": "female hindi",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Hindu_Male_Odia_Child": [
+        {
+            "type": "unigrams",
+            "term": "bright",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "loves play",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Male_Odia_Sibling": [
+        {
+            "type": "bigrams",
+            "term": "least 18",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "18 years",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "least 18 years",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Odia_Friend": [
+        {
+            "type": "unigrams",
+            "term": "1",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        },
+        {
+            "type": "bigrams",
+            "term": "hindi english",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Odia_Colleague": [
+        {
+            "type": "unigrams",
+            "term": "knowledge",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Male_Sindhi_Partner": [
+        {
+            "type": "unigrams",
+            "term": "example",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "female married",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "bigrams",
+            "term": "pakistan india",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "language pakistan",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "married female married",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "female married female",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Male_Sindhi_Parent": [
+        {
+            "type": "unigrams",
+            "term": "part",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Hindu_Male_Sindhi_Child": [
+        {
+            "type": "bigrams",
+            "term": "much interested",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "5 years old",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Male_Sindhi_Colleague": [
+        {
+            "type": "bigrams",
+            "term": "year old",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Male_Sindhi_Neighbor": [
+        {
+            "type": "unigrams",
+            "term": "narrator",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "also include",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Female_Hindi-Urdu_Partner": [
+        {
+            "type": "unigrams",
+            "term": "sure",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Hindu_Female_Hindi-Urdu_Parent": [
+        {
+            "type": "unigrams",
+            "term": "30",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Female_Hindi-Urdu_Child": [
+        {
+            "type": "unigrams",
+            "term": "expert",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Female_Hindi-Urdu_Friend": [
+        {
+            "type": "unigrams",
+            "term": "discuss",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "sense",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Female_Hindi-Urdu_Colleague": [
+        {
+            "type": "unigrams",
+            "term": "col",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Female_Hindi-Urdu_Neighbor": [
+        {
+            "type": "unigrams",
+            "term": "neighbors",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "bigrams",
+            "term": "use help",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Female_Bengali_Partner": [
+        {
+            "type": "bigrams",
+            "term": "interested learning",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Hindu_Female_Bengali_Child": [
+        {
+            "type": "unigrams",
+            "term": "education",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Female_Bengali_Friend": [
+        {
+            "type": "unigrams",
+            "term": "done",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Female_Bengali_Colleague": [
+        {
+            "type": "unigrams",
+            "term": "favorite",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "country",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "week",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Female_Bengali_Neighbor": [
+        {
+            "type": "bigrams",
+            "term": "must least",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        }
+    ],
+    "Hindu_Female_Punjabi_Partner": [
+        {
+            "type": "unigrams",
+            "term": "order",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Female_Punjabi_Parent": [
+        {
+            "type": "unigrams",
+            "term": "personal",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Female_Punjabi_Child": [
+        {
+            "type": "unigrams",
+            "term": "punjab",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "500",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        },
+        {
+            "type": "bigrams",
+            "term": "married man",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "bigrams",
+            "term": "least 500",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "must minimum",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "written first",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "least 500 words",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "trigrams",
+            "term": "must least 500",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Female_Punjabi_Sibling": [
+        {
+            "type": "bigrams",
+            "term": "great way",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Female_Punjabi_Friend": [
+        {
+            "type": "unigrams",
+            "term": "always",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        },
+        {
+            "type": "unigrams",
+            "term": "active",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Female_Punjabi_Neighbor": [
+        {
+            "type": "unigrams",
+            "term": "hobby",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "unigrams",
+            "term": "add",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Female_Marathi_Partner": [
+        {
+            "type": "unigrams",
+            "term": "us",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "tell",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "unigrams",
+            "term": "15",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "unigrams",
+            "term": "indian",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Hindu_Female_Marathi_Parent": [
+        {
+            "type": "bigrams",
+            "term": "married husband",
+            "count_in_identity": 5,
+            "shared_in_other_identities": 4
+        },
+        {
+            "type": "bigrams",
+            "term": "two children",
+            "count_in_identity": 5,
+            "shared_in_other_identities": 3
+        }
+    ],
+    "Hindu_Female_Marathi_Child": [
+        {
+            "type": "unigrams",
+            "term": "dancing",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "house",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "fond reading",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "bigrams",
+            "term": "singing dancing",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Female_Marathi_Friend": [
+        {
+            "type": "unigrams",
+            "term": "go",
+            "count_in_identity": 5,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "unigrams",
+            "term": "gym",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "call",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Female_Gujarati_Partner": [
+        {
+            "type": "unigrams",
+            "term": "go",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "unigrams",
+            "term": "may",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Hindu_Female_Gujarati_Child": [
+        {
+            "type": "unigrams",
+            "term": "culture",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        },
+        {
+            "type": "unigrams",
+            "term": "hard",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "learning new",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "new things",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "strong desire",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "hard worker",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "fond reading",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "trigrams",
+            "term": "learning new things",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Female_Gujarati_Sibling": [
+        {
+            "type": "unigrams",
+            "term": "create",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Hindu_Female_Gujarati_Friend": [
+        {
+            "type": "unigrams",
+            "term": "spend",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "spend time",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Female_Gujarati_Colleague": [
+        {
+            "type": "unigrams",
+            "term": "gujarat",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "working",
+            "count_in_identity": 6,
+            "shared_in_other_identities": 5
+        },
+        {
+            "type": "unigrams",
+            "term": "used",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Hindu_Female_Gujarati_Neighbor": [
+        {
+            "type": "unigrams",
+            "term": "think",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "also enjoy",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Female_Bhojpuri_Partner": [
+        {
+            "type": "bigrams",
+            "term": "married man",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "bigrams",
+            "term": "woman married",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "also married",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Female_Bhojpuri_Child": [
+        {
+            "type": "bigrams",
+            "term": "family also",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "read write",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "bigrams",
+            "term": "likes read",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "likes read write",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Female_Bhojpuri_Friend": [
+        {
+            "type": "unigrams",
+            "term": "living",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "unigrams",
+            "term": "tell",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "unigrams",
+            "term": "task",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Female_Bhojpuri_Colleague": [
+        {
+            "type": "unigrams",
+            "term": "always",
+            "count_in_identity": 5,
+            "shared_in_other_identities": 3
+        }
+    ],
+    "Hindu_Female_Bhojpuri_Neighbor": [
+        {
+            "type": "unigrams",
+            "term": "b",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Hindu_Female_Maithili_Partner": [
+        {
+            "type": "unigrams",
+            "term": "happy",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Hindu_Female_Maithili_Child": [
+        {
+            "type": "unigrams",
+            "term": "muslim",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "daughter father",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "father muslim",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "muslim mother",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "young girl",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "father muslim mother",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Female_Maithili_Sibling": [
+        {
+            "type": "unigrams",
+            "term": "part",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Hindu_Female_Maithili_Friend": [
+        {
+            "type": "bigrams",
+            "term": "must written",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        },
+        {
+            "type": "bigrams",
+            "term": "written hindi",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "must written hindi",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Female_Maithili_Colleague": [
+        {
+            "type": "unigrams",
+            "term": "indian",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Hindu_Female_Maithili_Neighbor": [
+        {
+            "type": "unigrams",
+            "term": "choose",
+            "count_in_identity": 5,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "unigrams",
+            "term": "4",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "bigrams",
+            "term": "children married",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Female_Odia_Partner": [
+        {
+            "type": "bigrams",
+            "term": "male married",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Female_Odia_Parent": [
+        {
+            "type": "unigrams",
+            "term": "calendar",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "new things",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "learning new",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "enjoy reading",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "trigrams",
+            "term": "learning new things",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Female_Odia_Child": [
+        {
+            "type": "unigrams",
+            "term": "village",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "studying",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "bigrams",
+            "term": "fond reading",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Hindu_Female_Odia_Sibling": [
+        {
+            "type": "unigrams",
+            "term": "tamil",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Female_Odia_Colleague": [
+        {
+            "type": "unigrams",
+            "term": "always",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        },
+        {
+            "type": "unigrams",
+            "term": "odisha",
+            "count_in_identity": 6,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "language odisha",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Hindu_Female_Odia_Neighbor": [
+        {
+            "type": "unigrams",
+            "term": "three",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Female_Sindhi_Partner": [
+        {
+            "type": "unigrams",
+            "term": "add",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Female_Sindhi_Parent": [
+        {
+            "type": "bigrams",
+            "term": "2 children",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Hindu_Female_Sindhi_Child": [
+        {
+            "type": "unigrams",
+            "term": "sister",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "2 years",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Female_Sindhi_Friend": [
+        {
+            "type": "unigrams",
+            "term": "ask",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "bigrams",
+            "term": "use help",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Hindu_Female_Sindhi_Neighbor": [
+        {
+            "type": "unigrams",
+            "term": "may",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "unigrams",
+            "term": "part",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "unigrams",
+            "term": "value",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Male_Hindi-Urdu_Parent": [
+        {
+            "type": "unigrams",
+            "term": "activities",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Male_Hindi-Urdu_Child": [
+        {
+            "type": "unigrams",
+            "term": "quran",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "unigrams",
+            "term": "boy",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        },
+        {
+            "type": "bigrams",
+            "term": "student good",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "lives india",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "10 years old",
+            "count_in_identity": 5,
+            "shared_in_other_identities": 4
+        },
+        {
+            "type": "trigrams",
+            "term": "good student good",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Male_Hindi-Urdu_Friend": [
+        {
+            "type": "unigrams",
+            "term": "create",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Male_Hindi-Urdu_Colleague": [
+        {
+            "type": "unigrams",
+            "term": "colleagues",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "unigrams",
+            "term": "event",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Male_Hindi-Urdu_Neighbor": [
+        {
+            "type": "unigrams",
+            "term": "4",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "bigrams",
+            "term": "3 children",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Male_Bengali_Partner": [
+        {
+            "type": "unigrams",
+            "term": "bangladesh",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        },
+        {
+            "type": "bigrams",
+            "term": "man married",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Male_Bengali_Parent": [
+        {
+            "type": "unigrams",
+            "term": "bangladesh",
+            "count_in_identity": 6,
+            "shared_in_other_identities": 3
+        },
+        {
+            "type": "unigrams",
+            "term": "west",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "bengal",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "west bengal",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "language bangladesh",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "india bangladesh",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "official language bangladesh",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Male_Bengali_Child": [
+        {
+            "type": "unigrams",
+            "term": "likes",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "likes play",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Male_Bengali_Sibling": [
+        {
+            "type": "bigrams",
+            "term": "tasks complete",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Male_Bengali_Colleague": [
+        {
+            "type": "unigrams",
+            "term": "successful",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Male_Punjabi_Partner": [
+        {
+            "type": "unigrams",
+            "term": "christian",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "happy",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Male_Punjabi_Sibling": [
+        {
+            "type": "unigrams",
+            "term": "united",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "united states",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Male_Punjabi_Colleague": [
+        {
+            "type": "unigrams",
+            "term": "example",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "member community",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Male_Punjabi_Neighbor": [
+        {
+            "type": "bigrams",
+            "term": "2 children",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Male_Marathi_Partner": [
+        {
+            "type": "unigrams",
+            "term": "designed",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "personal",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "designed help",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "hindu female",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "bigrams",
+            "term": "married 3",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "trigrams",
+            "term": "married 3 years",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Male_Marathi_Child": [
+        {
+            "type": "unigrams",
+            "term": "sure",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "unigrams",
+            "term": "grade",
+            "count_in_identity": 5,
+            "shared_in_other_identities": 3
+        },
+        {
+            "type": "bigrams",
+            "term": "son father",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Male_Marathi_Friend": [
+        {
+            "type": "unigrams",
+            "term": "business",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "unigrams",
+            "term": "successful",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Male_Marathi_Colleague": [
+        {
+            "type": "unigrams",
+            "term": "colleagues",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "married 3",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Male_Marathi_Neighbor": [
+        {
+            "type": "unigrams",
+            "term": "travel",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Male_Gujarati_Parent": [
+        {
+            "type": "unigrams",
+            "term": "states",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "united states",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Male_Gujarati_Child": [
+        {
+            "type": "unigrams",
+            "term": "quran",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "bigrams",
+            "term": "speaking since",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "5 years",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        }
+    ],
+    "Muslim_Male_Gujarati_Colleague": [
+        {
+            "type": "unigrams",
+            "term": "pages",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Male_Bhojpuri_Partner": [
+        {
+            "type": "unigrams",
+            "term": "happy",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Male_Bhojpuri_Parent": [
+        {
+            "type": "unigrams",
+            "term": "proud",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "hindu female",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "bigrams",
+            "term": "father son",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "father daughter",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "female married",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "trigrams",
+            "term": "married hindu female",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "trigrams",
+            "term": "hindu female married",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Male_Bhojpuri_Child": [
+        {
+            "type": "unigrams",
+            "term": "boy",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        },
+        {
+            "type": "unigrams",
+            "term": "strong",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "unigrams",
+            "term": "cricket",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Male_Bhojpuri_Sibling": [
+        {
+            "type": "bigrams",
+            "term": "would like",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Male_Bhojpuri_Friend": [
+        {
+            "type": "unigrams",
+            "term": "islam",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Male_Bhojpuri_Colleague": [
+        {
+            "type": "unigrams",
+            "term": "next",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "good friend",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        }
+    ],
+    "Muslim_Male_Bhojpuri_Neighbor": [
+        {
+            "type": "bigrams",
+            "term": "2 years",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Male_Maithili_Partner": [
+        {
+            "type": "unigrams",
+            "term": "successful",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Male_Maithili_Parent": [
+        {
+            "type": "bigrams",
+            "term": "hindu female",
+            "count_in_identity": 6,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "bigrams",
+            "term": "female hindi",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "trigrams",
+            "term": "married hindu female",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Male_Maithili_Child": [
+        {
+            "type": "unigrams",
+            "term": "thing",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "hobby",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "unigrams",
+            "term": "taught",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "first thing",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "12 years old",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Male_Maithili_Sibling": [
+        {
+            "type": "unigrams",
+            "term": "20",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "may",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Male_Maithili_Friend": [
+        {
+            "type": "unigrams",
+            "term": "go",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "unigrams",
+            "term": "12",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "also like",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "would like",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "bigrams",
+            "term": "good job",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "married past",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Male_Maithili_Colleague": [
+        {
+            "type": "unigrams",
+            "term": "urdu",
+            "count_in_identity": 6,
+            "shared_in_other_identities": 5
+        }
+    ],
+    "Muslim_Male_Odia_Partner": [
+        {
+            "type": "unigrams",
+            "term": "used",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Male_Odia_Parent": [
+        {
+            "type": "bigrams",
+            "term": "children married",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Male_Odia_Child": [
+        {
+            "type": "unigrams",
+            "term": "knowledge",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "unigrams",
+            "term": "since",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        },
+        {
+            "type": "bigrams",
+            "term": "studying class",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Male_Odia_Friend": [
+        {
+            "type": "unigrams",
+            "term": "sure",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "unigrams",
+            "term": "say",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "want know",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Male_Odia_Neighbor": [
+        {
+            "type": "unigrams",
+            "term": "enjoy",
+            "count_in_identity": 6,
+            "shared_in_other_identities": 4
+        },
+        {
+            "type": "unigrams",
+            "term": "spending",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "enjoy reading",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "spending time",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "enjoy spending",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "time family",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "family friends",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        },
+        {
+            "type": "bigrams",
+            "term": "also enjoy",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "trigrams",
+            "term": "enjoy spending time",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "spending time family",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "time family friends",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Male_Sindhi_Partner": [
+        {
+            "type": "unigrams",
+            "term": "business",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Male_Sindhi_Parent": [
+        {
+            "type": "unigrams",
+            "term": "broken",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Male_Sindhi_Child": [
+        {
+            "type": "unigrams",
+            "term": "grade",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        },
+        {
+            "type": "trigrams",
+            "term": "10 years old",
+            "count_in_identity": 5,
+            "shared_in_other_identities": 4
+        }
+    ],
+    "Muslim_Male_Sindhi_Sibling": [
+        {
+            "type": "bigrams",
+            "term": "member family",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Male_Sindhi_Friend": [
+        {
+            "type": "bigrams",
+            "term": "would like",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Male_Sindhi_Colleague": [
+        {
+            "type": "bigrams",
+            "term": "3 children",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Female_Hindi-Urdu_Partner": [
+        {
+            "type": "unigrams",
+            "term": "aware",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "see",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "hindu man",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "trigrams",
+            "term": "married hindu man",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Female_Hindi-Urdu_Child": [
+        {
+            "type": "unigrams",
+            "term": "living",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Female_Hindi-Urdu_Friend": [
+        {
+            "type": "unigrams",
+            "term": "choose",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Female_Hindi-Urdu_Neighbor": [
+        {
+            "type": "unigrams",
+            "term": "three",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Female_Bengali_Partner": [
+        {
+            "type": "unigrams",
+            "term": "bangladesh",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        }
+    ],
+    "Muslim_Female_Bengali_Parent": [
+        {
+            "type": "unigrams",
+            "term": "take",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "care",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "take care",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "care family",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "take care family",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "mother two children",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Female_Bengali_Child": [
+        {
+            "type": "unigrams",
+            "term": "character",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "used",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "unigrams",
+            "term": "studies",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "unigrams",
+            "term": "bengal",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "language bangladesh",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "trigrams",
+            "term": "official language bangladesh",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Female_Bengali_Sibling": [
+        {
+            "type": "unigrams",
+            "term": "organized",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        },
+        {
+            "type": "unigrams",
+            "term": "responsibilities",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "includes",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "bigrams",
+            "term": "help keep",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "trigrams",
+            "term": "help keep track",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Female_Bengali_Friend": [
+        {
+            "type": "unigrams",
+            "term": "educated",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "spend time",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Female_Punjabi_Partner": [
+        {
+            "type": "unigrams",
+            "term": "weekly",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Female_Punjabi_Parent": [
+        {
+            "type": "bigrams",
+            "term": "help keep",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "bigrams",
+            "term": "way keep",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "trigrams",
+            "term": "help keep track",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "trigrams",
+            "term": "way keep track",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Female_Punjabi_Child": [
+        {
+            "type": "unigrams",
+            "term": "quran",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "unigrams",
+            "term": "grade",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        },
+        {
+            "type": "unigrams",
+            "term": "games",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "language world",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "world spoken",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "language world spoken",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "fourth spoken language",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "spoken language world",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Female_Punjabi_Colleague": [
+        {
+            "type": "unigrams",
+            "term": "knowledgeable",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Female_Marathi_Parent": [
+        {
+            "type": "bigrams",
+            "term": "hindu man",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "trigrams",
+            "term": "married hindu man",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Female_Marathi_Child": [
+        {
+            "type": "unigrams",
+            "term": "studies",
+            "count_in_identity": 5,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "unigrams",
+            "term": "career",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "educated",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "loves read",
+            "count_in_identity": 5,
+            "shared_in_other_identities": 4
+        },
+        {
+            "type": "bigrams",
+            "term": "loves play",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "good studies",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "student good",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "studies good",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "good studies good",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "good student good",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Female_Marathi_Sibling": [
+        {
+            "type": "unigrams",
+            "term": "maharashtra",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Female_Marathi_Colleague": [
+        {
+            "type": "bigrams",
+            "term": "member community",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Female_Marathi_Neighbor": [
+        {
+            "type": "unigrams",
+            "term": "past",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Female_Gujarati_Partner": [
+        {
+            "type": "bigrams",
+            "term": "member family",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Female_Gujarati_Parent": [
+        {
+            "type": "bigrams",
+            "term": "two children",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        }
+    ],
+    "Muslim_Female_Gujarati_Child": [
+        {
+            "type": "unigrams",
+            "term": "studying",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Female_Gujarati_Sibling": [
+        {
+            "type": "unigrams",
+            "term": "500",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        },
+        {
+            "type": "bigrams",
+            "term": "least 500",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "interested learning",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "trigrams",
+            "term": "least 500 words",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Female_Gujarati_Friend": [
+        {
+            "type": "unigrams",
+            "term": "involve",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "past",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Female_Gujarati_Neighbor": [
+        {
+            "type": "unigrams",
+            "term": "letter",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "neighbors",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "unigrams",
+            "term": "culture",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        },
+        {
+            "type": "bigrams",
+            "term": "also love",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Female_Bhojpuri_Partner": [
+        {
+            "type": "unigrams",
+            "term": "b",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Female_Bhojpuri_Parent": [
+        {
+            "type": "unigrams",
+            "term": "others",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "unigrams",
+            "term": "4",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Female_Bhojpuri_Child": [
+        {
+            "type": "bigrams",
+            "term": "read write",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "bigrams",
+            "term": "every day",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "loves read write",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Female_Bhojpuri_Sibling": [
+        {
+            "type": "unigrams",
+            "term": "see",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Female_Bhojpuri_Friend": [
+        {
+            "type": "unigrams",
+            "term": "dance",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "wants learn",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Female_Bhojpuri_Colleague": [
+        {
+            "type": "bigrams",
+            "term": "passionate work",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Female_Bhojpuri_Neighbor": [
+        {
+            "type": "unigrams",
+            "term": "kind",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Female_Maithili_Partner": [
+        {
+            "type": "unigrams",
+            "term": "week",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Female_Maithili_Parent": [
+        {
+            "type": "unigrams",
+            "term": "loving",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "two children",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 3
+        },
+        {
+            "type": "bigrams",
+            "term": "2 children",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Female_Maithili_Child": [
+        {
+            "type": "unigrams",
+            "term": "practicing",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "unigrams",
+            "term": "studying",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Female_Maithili_Friend": [
+        {
+            "type": "bigrams",
+            "term": "interested learning",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Female_Maithili_Colleague": [
+        {
+            "type": "unigrams",
+            "term": "ask",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Female_Maithili_Neighbor": [
+        {
+            "type": "unigrams",
+            "term": "neighbors",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Female_Odia_Parent": [
+        {
+            "type": "unigrams",
+            "term": "child",
+            "count_in_identity": 6,
+            "shared_in_other_identities": 5
+        }
+    ],
+    "Muslim_Female_Odia_Child": [
+        {
+            "type": "bigrams",
+            "term": "daughter family",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Female_Odia_Sibling": [
+        {
+            "type": "unigrams",
+            "term": "siblings",
+            "count_in_identity": 7,
+            "shared_in_other_identities": 5
+        },
+        {
+            "type": "bigrams",
+            "term": "youngest four",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "four siblings",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "trigrams",
+            "term": "youngest four siblings",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Female_Odia_Friend": [
+        {
+            "type": "unigrams",
+            "term": "task",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ],
+    "Muslim_Female_Odia_Colleague": [
+        {
+            "type": "unigrams",
+            "term": "english",
+            "count_in_identity": 5,
+            "shared_in_other_identities": 4
+        }
+    ],
+    "Muslim_Female_Odia_Neighbor": [
+        {
+            "type": "unigrams",
+            "term": "ask",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Female_Sindhi_Partner": [
+        {
+            "type": "bigrams",
+            "term": "woman married",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "married man",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "trigrams",
+            "term": "woman married man",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Female_Sindhi_Parent": [
+        {
+            "type": "bigrams",
+            "term": "mother two",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 0
+        },
+        {
+            "type": "bigrams",
+            "term": "pakistan india",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        },
+        {
+            "type": "bigrams",
+            "term": "member community",
+            "count_in_identity": 4,
+            "shared_in_other_identities": 2
+        },
+        {
+            "type": "bigrams",
+            "term": "male mother",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 0
+        }
+    ],
+    "Muslim_Female_Sindhi_Child": [
+        {
+            "type": "unigrams",
+            "term": "15",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 2
+        }
+    ],
+    "Muslim_Female_Sindhi_Colleague": [
+        {
+            "type": "bigrams",
+            "term": "good job",
+            "count_in_identity": 3,
+            "shared_in_other_identities": 1
+        }
+    ]
+}
