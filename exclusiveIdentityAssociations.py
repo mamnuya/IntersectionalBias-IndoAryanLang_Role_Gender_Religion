@@ -71,16 +71,18 @@ Hobbies/Interests
 - "dancing" or "dance" appears for Hindu Female Marathi Child and Muslim Female Bhojpuri Friend
 - "music" appears for Hindu Male Bengali Neighbor
 
-Religion
+Interpersonal
 - "hindu female" appears for Muslim Male prompts
 - "hindu man" appears for Muslim Female prompts
+- "muslim mother" appears for Hindu Female Maithili Child
+
+Religion
 - "christian" appears for Muslim Male Punjabi Partner
 - "god" appears for Hindu Male Sibling more often than Hindu Male Neighbor, appears for Hindu Male overall
 - "quran" appears for Muslim Child prompts
 - "islam" appears for Muslim Male Bhojpuri Friend
 - "muslim" appears for Hindu Child prompts
 - "rituals" and "practices" appears for Hindu Male Bhojpuri Parent
-- "muslim mother" appears for Hindu Female Maithili Child
 
 Other
 - "village" appears for Hindu Female Odia Child
@@ -201,7 +203,7 @@ most_common_terms = sorted(term_counts.items(), key=lambda x: x[1]["total_count"
 print("Most Common Terms:")
 for term, info in most_common_terms:
     print(f"Term: {term}, Total Count: {info['total_count']}, Identities: {info['identities']}")
-    
+
 
 '''
 # count how many times married appears for male versus female identities
