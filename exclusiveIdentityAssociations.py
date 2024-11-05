@@ -8,7 +8,7 @@ Therefore, identity1 "hi" is exported.)
 
 Then, 
 Imports from data/identity_trends.json
-prints the ngrams (from most common to least common) with a list of identities it corresponds to
+prints the ngrams (from most common to least common) with an identity it corresponds to the most, and the list of identities for which it also often occurs
 This printed list is essentially the top associations that occur for certain intersectional identities over other identities. 
 
 Observations comment below includes some observations from the printed statements.
@@ -172,7 +172,45 @@ with open("data/identity_trends.json", "w") as file:
 
 print("Data successfully exported to data/identity_trends.json")
 
+# Load the data from JSON
+with open("data/identity_trends.json", "r") as file:
+    data = json.load(file)
 
+
+### this block of code prints the term and the identity is occurs the most for
+# Function to analyze terms and their counts
+def analyze_terms(data):
+    term_counts = defaultdict(lambda: {"total_count": 0, "best_identity": "", "max_count": 0})
+
+    # Aggregate counts
+    for identity, terms in data.items():
+        for term_info in terms:
+            term = term_info["term"]
+            count_for_this_identity = term_info["count_in_identity"]
+
+            # Update total count and track the identity with the highest count
+            term_counts[term]["total_count"] += count_for_this_identity
+
+            if count_for_this_identity > term_counts[term]["max_count"]:
+                term_counts[term]["best_identity"] = identity
+                term_counts[term]["max_count"] = count_for_this_identity
+
+    return term_counts
+
+# Run analysis
+term_counts = analyze_terms(data)
+
+# Identify most common terms
+most_common_terms = sorted(term_counts.items(), key=lambda x: x[1]["total_count"], reverse=True)
+
+# Display most common terms and the identity where they occur the most
+
+print("Most Common Terms (with single most frequent identity):")
+for term, info in most_common_terms:
+    print(f"Term: {term}, Total Count: {info['total_count']}, Identity: {info['best_identity']}")
+
+
+### this block of code prints the term and identities it occurs often and identities it occurs the most for
 # Load the data from JSON
 with open("data/identity_trends.json", "r") as file:
     data = json.load(file)
@@ -200,7 +238,8 @@ term_counts = analyze_terms(data)
 most_common_terms = sorted(term_counts.items(), key=lambda x: x[1]["total_count"], reverse=True)
 
 # Display most common terms
-print("Most Common Terms:")
+print("***")
+print("Most Common Terms with all identities it occurs often for:")
 for term, info in most_common_terms:
     print(f"Term: {term}, Total Count: {info['total_count']}, Identities: {info['identities']}")
 

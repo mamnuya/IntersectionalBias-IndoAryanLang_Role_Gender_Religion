@@ -262,7 +262,7 @@ for role, count in role_count.items():
     print(f"{role}: {count}")
 
 '''
-Exclusive Count per Identity Field:
+Exclusive Entry Count per Identity Field:
 Religion Counts:
 Hindu: 26
 Muslim: 44
