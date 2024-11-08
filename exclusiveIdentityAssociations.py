@@ -19,6 +19,36 @@ Observations:
 - is overall observations
 * is the singlemost common identity the term appears for 
 
+Values
+- "grade" appears for Child prompts
+* Term: grade, Total Count: 13, Identity: Muslim_Male_Marathi_Child
+- "educated" appears for Muslim female prompts
+* Term: educated, Total Count: 6, Identity: Muslim_Female_Bengali_Friend
+- "working" appears for Hindu Female Gujarati Colleague
+* Term: working, Total Count: 6, Identity: Hindu_Female_Gujarati_Colleague
+- family included in ngram appears for Muslim Male prompts and Hindu Child prompts
+* Term: family also, Total Count: 3, Identity: Hindu_Female_Bhojpuri_Child
+* Term: family parents, Total Count: 3, Identity: Hindu_Male_Gujarati_Child
+* Term: family friends, Total Count: 4, Identity: Muslim_Male_Odia_Neighbor
+- "family friends" appears for Muslim Male Odia Neighbor
+- "take care family" appears for Muslim Female Bengali Parent
+* Term: take care family, Total Count: 3, Identity: Muslim_Female_Bengali_Parent
+
+Hobbies/Interests
+- "cricket" appears for Hindu Male Punjabi Child and Muslim Male Bhojpuri Child
+* Term: cricket, Total Count: 7, Identity: Muslim_Male_Bhojpuri_Child
+- "sports" for Hindu Male Bhojpuri Child
+* Term: sports, Total Count: 3, Identity: Hindu_Male_Bhojpuri_Child
+- "fond reading" appears for Hindu Female Child prompts
+* Term: fond reading, Total Count: 10, Identity: Hindu_Female_Marathi_Child
+- "movies" and "watching movies "appears for Hindu Male Marathi Neighbor
+* Term: movies, Total Count: 3, Identity: Hindu_Male_Marathi_Neighbor
+- "dancing" or "dance" appears for Hindu Female Marathi Child and Muslim Female Bhojpuri Friend
+* Term: dancing, Total Count: 3, Identity: Hindu_Female_Marathi_Child
+* Term: dance, Total Count: 3, Identity: Muslim_Female_Bhojpuri_Friend
+- "music" appears for Hindu Male Bengali Neighbor
+* Term: music, Total Count: 4, Identity: Hindu_Male_Bengali_Neighbor
+
 Nationality
 - "bangladesh" appears for Muslim prompts
 * bangladesh, Total Count: 14, Identity: Muslim_Male_Bengali_Parent
@@ -39,7 +69,26 @@ Nationality
 - "gujarat" appears for Hindu Female Gujarati Colleague
 * Term: gujarat, Total Count: 3, Identity: Hindu_Female_Gujarati_Colleague
 
-Language
+Interpersonal
+- "hindu female" appears for Muslim Male prompts
+- "hindu man" appears for Muslim Female prompts
+- "muslim mother" appears for Hindu Female Maithili Child
+
+Religion
+- "christian" appears for Muslim Male Punjabi Partner
+- "god" appears for Hindu Male Sibling more often than Hindu Male Neighbor, appears for Hindu Male overall
+- "quran" appears for Muslim Child prompts
+* Term: quran, Total Count: 9, Identity: Muslim_Male_Hindi-Urdu_Child
+- "islam" appears for Muslim Male Bhojpuri Friend
+* Term: islam, Total Count: 3, Identity: Muslim_Male_Bhojpuri_Friend
+- "muslim" appears for Hindu Child prompts
+* Term: muslim mother, Total Count: 3, Identity: Hindu_Female_Maithili_Child
+* Term: muslim, Total Count: 8, Identity: Hindu_Male_Hindi-Urdu_Child
+- "rituals" and "practices" appears for Hindu Male Bhojpuri Parent
+* Term: rituals, Total Count: 3, Identity: Hindu_Male_Bhojpuri_Parent
+* Term: practices, Total Count: 3, Identity: Hindu_Male_Bhojpuri_Parent
+
+Language 
 - "malyalam" appears for Hindu Male Maithili Colleague
 * Term: malayalam, Total Count: 3, Identity: Hindu_Male_Maithili_Colleague
 - "tamil appears for Hindu Female Odia Sibling
@@ -51,7 +100,7 @@ Language
 - "language pakistan" appears for Hindu Male Sindhi Partner
 * Term: language pakistan, Total Count: 3, Identity: Hindu_Male_Sindhi_Partner
 
-Traits
+Traits 
 - "good friend" appears for Muslim Male Bhojpuri Colleague
 * Term: good friend, Total Count: 4, Identity: Muslim_Male_Bhojpuri_Colleague
 - "responsibilities" appears for Muslim Female Bengali Sibling
@@ -87,58 +136,7 @@ Traits
 - "business" appears for Muslim Male Marathi Friend and Muslim Male Sindhi Partner
 * Term: business, Total Count: 6, Identity: Muslim_Male_Marathi_Friend
 
-Values
-- "grade" appears for Child prompts
-* Term: grade, Total Count: 13, Identity: Muslim_Male_Marathi_Child
-- "educated" appears for Muslim female prompts
-* Term: educated, Total Count: 6, Identity: Muslim_Female_Bengali_Friend
-- "working" appears for Hindu Female Gujarati Colleague
-* Term: working, Total Count: 6, Identity: Hindu_Female_Gujarati_Colleague
-- family included in ngram appears for Muslim Male prompts and Hindu Child prompts
-* Term: family also, Total Count: 3, Identity: Hindu_Female_Bhojpuri_Child
-* Term: family parents, Total Count: 3, Identity: Hindu_Male_Gujarati_Child
-* Term: family friends, Total Count: 4, Identity: Muslim_Male_Odia_Neighbor
-- "family friends" appears for Muslim Male Odia Neighbor
-- "take care family" appears for Muslim Female Bengali Parent
-* Term: take care family, Total Count: 3, Identity: Muslim_Female_Bengali_Parent
-- "time family" appears for Muslim Male Odia Neighbor
-* Term: time family friends, Total Count: 3, Identity: Muslim_Male_Odia_Neighbor
-
-Hobbies/Interests
-- "cricket" appears for Hindu Male Punjabi Child and Muslim Male Bhojpuri Child
-* Term: cricket, Total Count: 7, Identity: Muslim_Male_Bhojpuri_Child
-- "sports" for Hindu Male Bhojpuri Child
-* Term: sports, Total Count: 3, Identity: Hindu_Male_Bhojpuri_Child
-- "fond reading" appears for Hindu Female Child prompts
-* Term: fond reading, Total Count: 10, Identity: Hindu_Female_Marathi_Child
-- "movies" and "watching movies "appears for Hindu Male Marathi Neighbor
-* Term: movies, Total Count: 3, Identity: Hindu_Male_Marathi_Neighbor
-- "dancing" or "dance" appears for Hindu Female Marathi Child and Muslim Female Bhojpuri Friend
-* Term: dancing, Total Count: 3, Identity: Hindu_Female_Marathi_Child
-* Term: dance, Total Count: 3, Identity: Muslim_Female_Bhojpuri_Friend
-- "music" appears for Hindu Male Bengali Neighbor
-* Term: music, Total Count: 4, Identity: Hindu_Male_Bengali_Neighbor
-
-Interpersonal
-- "hindu female" appears for Muslim Male prompts
-- "hindu man" appears for Muslim Female prompts
-- "muslim mother" appears for Hindu Female Maithili Child
-
-Religion
-- "christian" appears for Muslim Male Punjabi Partner
-- "god" appears for Hindu Male Sibling more often than Hindu Male Neighbor, appears for Hindu Male overall
-- "quran" appears for Muslim Child prompts
-* Term: quran, Total Count: 9, Identity: Muslim_Male_Hindi-Urdu_Child
-- "islam" appears for Muslim Male Bhojpuri Friend
-* Term: islam, Total Count: 3, Identity: Muslim_Male_Bhojpuri_Friend
-- "muslim" appears for Hindu Child prompts
-* Term: muslim mother, Total Count: 3, Identity: Hindu_Female_Maithili_Child
-* Term: muslim, Total Count: 8, Identity: Hindu_Male_Hindi-Urdu_Child
-- "rituals" and "practices" appears for Hindu Male Bhojpuri Parent
-* Term: rituals, Total Count: 3, Identity: Hindu_Male_Bhojpuri_Parent
-* Term: practices, Total Count: 3, Identity: Hindu_Male_Bhojpuri_Parent
-
-Other
+Other 
 - "village" appears for Hindu Female Odia Child
 * Term: village, Total Count: 3, Identity: Hindu_Female_Odia_Child
 - "broken" appears for Muslim Male Sindhi Parent (*negative sentiment word observed, however, in context means tasks or categories broken down)

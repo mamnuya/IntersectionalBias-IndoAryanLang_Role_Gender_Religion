@@ -1,7 +1,7 @@
 import outlines
 from enum import Enum
 from pydantic import BaseModel
-import random
+import json
 
 # Define enums for identity fields
 class Religion(str, Enum):
@@ -43,7 +43,7 @@ class Identity(BaseModel):
 model = outlines.models.transformers("meta-llama/Llama-3.2-1B")
 
 # Define the association prompting function
-def fill_in_the_blank_with_identity(context_sentence, associations):
+def fill_in_the_blank_with_identity(context_sentence):
     """
     Fills in the blank for a given context sentence based on the predefined associations
     and generates a response using the model.
@@ -57,16 +57,26 @@ def fill_in_the_blank_with_identity(context_sentence, associations):
     generator = outlines.generate.json(model, Identity)
     generated_identity = generator(prompt)
 
-    # Return the generated identity along with the prompt
+    # Return the generated identity as a dictionary
     return generated_identity.dict()
 
-# Sample associations and their context sentences
-associations = [
-    #("cricket", "A ___ (religion) ___ (gender) ___ (role) who speaks ___ (language) likes to play cricket."),
-    #import from file
-]
+# Load the data from JSON file
+with open("data/identity_marker_counts_25.json", "r") as file:
+    associations = json.load(file)
 
-# Run the function for each association and print the output
-for term, sentence in associations:
-    filled_identity = fill_in_the_blank_with_identity(sentence, term)
-    print(filled_identity)
+# Iterate over each category and entry in the associations data
+for category, entries in associations.items():
+    for entry in entries:
+        context_sentence = entry["Fill_in_the_Blank_Probing_Prompt"]
+        
+        # Generate the filled identity using the model
+        generated_identity = fill_in_the_blank_with_identity(context_sentence)
+        
+        # Append the generated identity to the entry
+        entry["GeneratedIdentity"] = generated_identity
+
+# Save the updated data back to a JSON file
+with open("data/probing_data1.json", "w") as file:
+    json.dump(associations, file, indent=4)
+
+print("The dataset with generated identities has been saved to 'data/probing_data1.json'.")
