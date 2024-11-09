@@ -1,0 +1,149 @@
+Interpretation of Bias Metrics
+Bias Ratio for both Overall and Exclusive negative sentiment rates, compare each identity's sentiment rates to the global average.
+-Higher Bias Ratio (greater than 1): Suggests the identity is being unfairly associated with negative sentiment.
+-Lower Bias Ratio (less than 1): Suggests the identity is underrepresented in negative sentiment.
+-Bias Ratio near 1: Suggests the identity’s negative sentiment association is similar to the global average.
+
+Religion Bias Interpretation
+Hindu:
+Overall Negative Sentiment Rate: 0.0149
+Exclusive Negative Sentiment Rate: 0.0053
+Overall Bias Ratio: 0.7192
+Exclusive Bias Ratio: 0.7429
+Interpretation: The Hindu identity has a below-average rate for overall and exclusive negative sentiment (Bias Ratios below 1). This suggests that "Hindu" is less associated with negative sentiment than the global average.
+
+Muslim:
+Overall Negative Sentiment Rate: 0.0265
+Exclusive Negative Sentiment Rate: 0.0090
+Overall Bias Ratio: 1.2808
+Exclusive Bias Ratio: 1.2571
+Interpretation: The Muslim identity shows a higher-than-average rate of both overall and exclusive negative sentiment (Bias Ratios above 1). This suggests that the "Muslim" identity is disproportionately associated with negative sentiment compared to other identities, indicating potential bias.
+
+Gender Bias Interpretation
+Male:
+Overall Negative Sentiment Rate: 0.0214
+Exclusive Negative Sentiment Rate: 0.0059
+Overall Bias Ratio: 1.0345
+Exclusive Bias Ratio: 0.8286
+Interpretation: The Male identity has a slightly higher overall negative sentiment rate but a lower exclusive negative sentiment rate compared to the global averages (Bias Ratio for overall > 1 and exclusive < 1). This suggests a moderate association with negative sentiment for the "Male" identity, but not as severe as other identities.
+
+Female:
+Overall Negative Sentiment Rate: 0.0199
+Exclusive Negative Sentiment Rate: 0.0083
+Overall Bias Ratio: 0.9655
+Exclusive Bias Ratio: 1.1714
+Interpretation: The Female identity has slightly below average overall negative sentiment but a higher-than-average exclusive negative sentiment (Bias Ratio for exclusive > 1). This suggests that negative sentiment is more likely to be exclusively associated with "Female," but the overall association is less pronounced.
+
+Language Bias Interpretation
+Hindi-Urdu:
+Overall Negative Sentiment Rate: 0.0165
+Exclusive Negative Sentiment Rate: 0.0046
+Overall Bias Ratio: 0.7980
+Exclusive Bias Ratio: 0.6429
+Interpretation: Hindi-Urdu has below-average negative sentiment (both overall and exclusive). The language is not associated with negative sentiment as much as others.
+
+Bengali:
+Overall Negative Sentiment Rate: 0.0147
+Exclusive Negative Sentiment Rate: 0.0064
+Overall Bias Ratio: 0.7094
+Exclusive Bias Ratio: 0.9000
+Interpretation: Bengali has a below-average overall negative sentiment, but its exclusive negative sentiment is closer to the average, suggesting that the sentiment is somewhat more exclusive but still not significantly biased.
+
+Punjabi:
+Overall Negative Sentiment Rate: 0.0183
+Exclusive Negative Sentiment Rate: 0.0027
+Overall Bias Ratio: 0.8867
+Exclusive Bias Ratio: 0.3857
+Interpretation: Punjabi shows a below-average association with overall negative sentiment, and an even lower exclusive negative sentiment (Bias Ratios below 1). This suggests little to no bias for this language.
+
+Marathi:
+Overall Negative Sentiment Rate: 0.0201
+Exclusive Negative Sentiment Rate: 0.0073
+Overall Bias Ratio: 0.9754
+Exclusive Bias Ratio: 1.0286
+Interpretation: Marathi has an overall negative sentiment slightly below the average, but its exclusive negative sentiment is slightly above average. This indicates some level of bias toward "Marathi," especially when sentiment is exclusive.
+
+Gujarati:
+Overall Negative Sentiment Rate: 0.0229
+Exclusive Negative Sentiment Rate: 0.0092
+Overall Bias Ratio: 1.1084
+Exclusive Bias Ratio: 1.2857
+Interpretation: Gujarati shows a higher-than-average rate for both overall and exclusive negative sentiment. This suggests bias against the "Gujarati" language in your dataset.
+
+Bhojpuri:
+Overall Negative Sentiment Rate: 0.0183
+Exclusive Negative Sentiment Rate: 0.0082
+Overall Bias Ratio: 0.8867
+Exclusive Bias Ratio: 1.1571
+Interpretation: Bhojpuri shows a lower-than-average overall negative sentiment but higher-than-average exclusive negative sentiment. This suggests slight bias, particularly in the exclusive cases.
+
+Maithili:
+Overall Negative Sentiment Rate: 0.0220
+Exclusive Negative Sentiment Rate: 0.0064
+Overall Bias Ratio: 1.0640
+Exclusive Bias Ratio: 0.9000
+Interpretation: Maithili has slightly above-average overall negative sentiment but a lower-than-average exclusive negative sentiment, suggesting minor bias.
+
+Odia:
+Overall Negative Sentiment Rate: 0.0256
+Exclusive Negative Sentiment Rate: 0.0082
+Overall Bias Ratio: 1.2414
+Exclusive Bias Ratio: 1.1571
+Interpretation: Odia shows a higher-than-average overall and exclusive negative sentiment. This suggests bias against the "Odia" language in your dataset.
+
+Sindhi:
+Overall Negative Sentiment Rate: 0.0275
+Exclusive Negative Sentiment Rate: 0.0110
+Overall Bias Ratio: 1.3300
+Exclusive Bias Ratio: 1.5429
+Interpretation: Sindhi has the highest bias ratios across both overall and exclusive negative sentiment. This suggests significant bias against the "Sindhi" language.
+
+Role Bias Interpretation
+Partner:
+Overall Negative Sentiment Rate: 0.0150
+Exclusive Negative Sentiment Rate: 0.0057
+Overall Bias Ratio: 0.7241
+Exclusive Bias Ratio: 0.8000
+Interpretation: The Partner role has below-average negative sentiment (both overall and exclusive), with a slightly higher exclusive sentiment suggesting mild bias.
+
+Parent:
+Overall Negative Sentiment Rate: 0.0299
+Exclusive Negative Sentiment Rate: 0.0121
+Overall Bias Ratio: 1.4483
+Exclusive Bias Ratio: 1.7000
+Interpretation: The Parent role has significantly higher-than-average overall and exclusive negative sentiment. This suggests bias against the "Parent" role in your dataset.
+
+Child:
+Overall Negative Sentiment Rate: 0.0328
+Exclusive Negative Sentiment Rate: 0.0100
+Overall Bias Ratio: 1.5862
+Exclusive Bias Ratio: 1.4000
+Interpretation: The Child role also shows significant bias, with both overall and exclusive negative sentiment rates above average.
+
+Sibling:
+Overall Negative Sentiment Rate: 0.0207
+Exclusive Negative Sentiment Rate: 0.0036
+Overall Bias Ratio: 1.0000
+Exclusive Bias Ratio: 0.5000
+Interpretation: The Sibling role shows no overall bias (Bias Ratio = 1), but there is a lower exclusive negative sentiment, indicating minimal bias.
+
+Friend:
+Overall Negative Sentiment Rate: 0.0064
+Exclusive Negative Sentiment Rate: 0.0036
+Overall Bias Ratio: 0.3103
+Exclusive Bias Ratio: 0.5000
+Interpretation: The Friend role has low negative sentiment, both overall and exclusive, indicating no significant bias.
+
+Colleague:
+Overall Negative Sentiment Rate: 0.0230
+Exclusive Negative Sentiment Rate: 0.0095
+Overall Bias Ratio: 1.1047
+Exclusive Bias Ratio: 1.3571
+Interpretation: The Colleague role has a higher-than-average exclusive negative sentiment, suggesting bias.
+
+Neighbor:
+Overall Negative Sentiment Rate: 0.0123
+Exclusive Negative Sentiment Rate: 0.0057
+Overall Bias Ratio: 0.5862
+Exclusive Bias Ratio: 0.8000
+Interpretation: The Neighbor role has low overall negative sentiment but slightly higher exclusive negative sentiment, suggesting mild bias.
