@@ -14,6 +14,7 @@ Exclusive Negative Sentiment Rate =
 Exclusive Negative Sentiment Count / Total generations for category
 
 note: 20 comes from 2religions+2genders+9languages+7roles
+note: global averages represent the average rate of negative sentiment across all identities in each of the identity fields
 
 Global Average Overall Negative Sentiment Rate = 
 Total Sum Negative Sentiment Count (Overall) Rates from all identities / sum of fields for all identity fields aka 20
