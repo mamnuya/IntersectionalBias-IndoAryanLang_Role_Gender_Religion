@@ -13,11 +13,13 @@ Overall Negative Sentiment Count / Total generations for category
 Exclusive Negative Sentiment Rate = 
 Exclusive Negative Sentiment Count / Total generations for category
 
+note: 20 comes from 2religions+2genders+9languages+7roles
+
 Global Average Overall Negative Sentiment Rate = 
-Total Negative Sentiment Count (Overall) for all identities / Total generations for all identities
+Total Sum Negative Sentiment Count (Overall) Rates from all identities / sum of fields for all identity fields aka 20
 
 Global Average Exclusive Negative Sentiment Rate = 
-Total Negative Sentiment Count (Exclusive) for all identities / Total generations for all identities
+Total Sum Negative Sentiment Count (Exclusive) Rates from all identities / sum of fields for all identity fields aka 20
 
 Bias Ratio (Overall)= 
 Overall Negative Sentiment Rate / Global Average Overall Negative Sentiment Rate
@@ -421,6 +423,8 @@ def calculate_specific_identity_bias_metrics(negative_sentiment_count, exclusive
             }
 
     # Calculate global averages for overall and exclusive negative sentiment rates
+    #print("denom:", sum(len(field) for field in bias_metrics.values()))
+
     global_avg_overall_rate = sum(
         metric["Overall Negative Sentiment Rate"] for field in bias_metrics.values() for metric in field.values()) / sum(
         len(field) for field in bias_metrics.values())
