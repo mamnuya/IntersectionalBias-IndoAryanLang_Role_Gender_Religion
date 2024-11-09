@@ -1,6 +1,6 @@
 '''
 This code finds the unigram, bigrams, and trigrams from the top 25 associations
-that occurs as the top association more often for a given identity than any other identities.
+that occurs as the top association that occur in more entries for a given identity than any other identities.
 Exports information to data/identity_trends.json
 (Example: identity1 and identity2 have the same top ngram "hi", 
 but identity1 has the ngram in more individual entries than identity2. 

@@ -1,2062 +1,2367 @@
 {
     "Hindu_Male_Hindi-Urdu_Sibling": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "death",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "hell",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Hindu_Male_Bengali_Neighbor": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Hindu_Male_Punjabi_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "tense",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             }
         ]
     },
     "Hindu_Male_Maithili_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             },
             {
                 "term": "lost",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "cheated",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "upset",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 5
+                "termOccursInEntriesForOtherIdentities": 5,
+                "termOccursForThisIdentityAndOtherIdentities": 6
             },
             {
                 "term": "angry",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 8
+                "termOccursInEntriesForOtherIdentities": 8,
+                "termOccursForThisIdentityAndOtherIdentities": 9
             },
             {
                 "term": "conflict",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Hindu_Male_Maithili_Sibling": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "angry",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 8
+                "termOccursInEntriesForOtherIdentities": 8,
+                "termOccursForThisIdentityAndOtherIdentities": 9
             }
         ]
     },
     "Hindu_Male_Odia_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "tricky",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Hindu_Male_Sindhi_Partner": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "shocked",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "unaware",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Hindu_Male_Sindhi_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             },
             {
                 "term": "evil",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 2
+                "termOccursInEntriesForOtherIdentities": 2,
+                "termOccursForThisIdentityAndOtherIdentities": 3
             },
             {
                 "term": "killing",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "low",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "tired",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "bored",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "angry",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 8
+                "termOccursInEntriesForOtherIdentities": 8,
+                "termOccursForThisIdentityAndOtherIdentities": 9
             },
             {
                 "term": "sad",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "bullied",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             }
         ]
     },
     "Hindu_Female_Bengali_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "trouble",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             }
         ]
     },
     "Hindu_Female_Marathi_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "pay",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 2
+                "termOccursInEntriesForOtherIdentities": 2,
+                "termOccursForThisIdentityAndOtherIdentities": 3
             }
         ]
     },
     "Hindu_Female_Bhojpuri_Colleague": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "86",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             }
         ]
     },
     "Hindu_Female_Bhojpuri_Neighbor": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Hindu_Female_Odia_Colleague": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Muslim_Male_Hindi-Urdu_Neighbor": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "serious",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "struggling",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 8
+                "termOccursInEntriesForOtherIdentities": 8,
+                "termOccursForThisIdentityAndOtherIdentities": 9
             }
         ]
     },
     "Muslim_Male_Bengali_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Muslim_Male_Punjabi_Colleague": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "murder",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "accused",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "killing",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "interrogated",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "questioned",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             }
         ]
     },
     "Muslim_Male_Marathi_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "difficulties",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 2
+                "termOccursInEntriesForOtherIdentities": 2,
+                "termOccursForThisIdentityAndOtherIdentities": 3
             },
             {
                 "term": "mistakes",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "struggling",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 8
+                "termOccursInEntriesForOtherIdentities": 8,
+                "termOccursForThisIdentityAndOtherIdentities": 9
             },
             {
                 "term": "trouble",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "terrorist",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             }
         ]
     },
     "Muslim_Male_Marathi_Sibling": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Muslim_Male_Marathi_Colleague": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "problems",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "struggle",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 6
+                "termOccursInEntriesForOtherIdentities": 6,
+                "termOccursForThisIdentityAndOtherIdentities": 7
             }
         ]
     },
     "Muslim_Male_Gujarati_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             },
             {
                 "term": "blocks",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 2
+                "termOccursInEntriesForOtherIdentities": 2,
+                "termOccursForThisIdentityAndOtherIdentities": 3
             },
             {
                 "term": "block",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "struggle",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 6
+                "termOccursInEntriesForOtherIdentities": 6,
+                "termOccursForThisIdentityAndOtherIdentities": 7
             },
             {
                 "term": "struggles",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "struggling",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 8
+                "termOccursInEntriesForOtherIdentities": 8,
+                "termOccursForThisIdentityAndOtherIdentities": 9
             },
             {
                 "term": "death",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             }
         ]
     },
     "Muslim_Male_Gujarati_Friend": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "worried",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             }
         ]
     },
     "Muslim_Male_Bhojpuri_Partner": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "tricked",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Muslim_Male_Bhojpuri_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "fight",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             }
         ]
     },
     "Muslim_Male_Bhojpuri_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "problems",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "trouble",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "ridiculed",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "teased",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "shocked",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "cry",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "scared",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             }
         ]
     },
     "Muslim_Male_Bhojpuri_Neighbor": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Muslim_Male_Maithili_Neighbor": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Muslim_Male_Odia_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "forced",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 6
+                "termOccursInEntriesForOtherIdentities": 6,
+                "termOccursForThisIdentityAndOtherIdentities": 7
             }
         ]
     },
     "Muslim_Male_Odia_Sibling": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "difficulties",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 2
+                "termOccursInEntriesForOtherIdentities": 2,
+                "termOccursForThisIdentityAndOtherIdentities": 3
             },
             {
                 "term": "problems",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "accident",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             }
         ]
     },
     "Muslim_Male_Sindhi_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             },
             {
                 "term": "lost",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "accused",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "molesting",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "desperate",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "bad",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Muslim_Male_Sindhi_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "hard",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 2
+                "termOccursInEntriesForOtherIdentities": 2,
+                "termOccursForThisIdentityAndOtherIdentities": 3
             },
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             },
             {
                 "term": "bullied",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "refusing",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "tired",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "angry",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 8
+                "termOccursInEntriesForOtherIdentities": 8,
+                "termOccursForThisIdentityAndOtherIdentities": 9
             },
             {
                 "term": "bored",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "sad",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             }
         ]
     },
     "Muslim_Female_Hindi-Urdu_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             },
             {
                 "term": "blocks",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 2
+                "termOccursInEntriesForOtherIdentities": 2,
+                "termOccursForThisIdentityAndOtherIdentities": 3
             }
         ]
     },
     "Muslim_Female_Hindi-Urdu_Sibling": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "accident",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             }
         ]
     },
     "Muslim_Female_Bengali_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             },
             {
                 "term": "struggle",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 6
+                "termOccursInEntriesForOtherIdentities": 6,
+                "termOccursForThisIdentityAndOtherIdentities": 7
             }
         ]
     },
     "Muslim_Female_Punjabi_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             },
             {
                 "term": "forced",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 6
+                "termOccursInEntriesForOtherIdentities": 6,
+                "termOccursForThisIdentityAndOtherIdentities": 7
             }
         ]
     },
     "Muslim_Female_Punjabi_Colleague": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "upset",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 5
+                "termOccursInEntriesForOtherIdentities": 5,
+                "termOccursForThisIdentityAndOtherIdentities": 6
             },
             {
                 "term": "scared",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             }
         ]
     },
     "Muslim_Female_Marathi_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "crisis",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "avoid",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "miss",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "missing",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Muslim_Female_Marathi_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "victim",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "injustice",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "victimized",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Muslim_Female_Marathi_Colleague": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "lower",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "struggle",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 6
+                "termOccursInEntriesForOtherIdentities": 6,
+                "termOccursForThisIdentityAndOtherIdentities": 7
             },
             {
                 "term": "struggling",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 8
+                "termOccursInEntriesForOtherIdentities": 8,
+                "termOccursForThisIdentityAndOtherIdentities": 9
             },
             {
                 "term": "angry",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 8
+                "termOccursInEntriesForOtherIdentities": 8,
+                "termOccursForThisIdentityAndOtherIdentities": 9
             },
             {
                 "term": "cheating",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "leave",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             }
         ]
     },
     "Muslim_Female_Marathi_Neighbor": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "jealous",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "angry",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 8
+                "termOccursInEntriesForOtherIdentities": 8,
+                "termOccursForThisIdentityAndOtherIdentities": 9
             },
             {
                 "term": "shocked",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "furious",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             }
         ]
     },
     "Muslim_Female_Gujarati_Partner": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "lazy",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             }
         ]
     },
     "Muslim_Female_Gujarati_Colleague": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "leave",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "nervous",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "worried",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "tears",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Muslim_Female_Bhojpuri_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "forced",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 6
+                "termOccursInEntriesForOtherIdentities": 6,
+                "termOccursForThisIdentityAndOtherIdentities": 7
             },
             {
                 "term": "bullied",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "abusive",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "evil",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 2
+                "termOccursInEntriesForOtherIdentities": 2,
+                "termOccursForThisIdentityAndOtherIdentities": 3
             }
         ]
     },
     "Muslim_Female_Maithili_Partner": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "fear",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "killed",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "fight",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             }
         ]
     },
     "Muslim_Female_Odia_Sibling": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "died",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "conflicts",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Muslim_Female_Odia_Neighbor": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "punished",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "angry",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 8
+                "termOccursInEntriesForOtherIdentities": 8,
+                "termOccursForThisIdentityAndOtherIdentities": 9
             },
             {
                 "term": "poor",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "hard",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 2
+                "termOccursInEntriesForOtherIdentities": 2,
+                "termOccursForThisIdentityAndOtherIdentities": 3
             },
             {
                 "term": "struggling",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 8
+                "termOccursInEntriesForOtherIdentities": 8,
+                "termOccursForThisIdentityAndOtherIdentities": 9
             },
             {
                 "term": "accident",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             }
         ]
     },
     "Muslim_Female_Sindhi_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "harassed",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "threatened",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "death",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             }
         ]
     },
     "Hindu_Male_Bengali_Sibling": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Hindu_Male_Bengali_Friend": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Hindu_Male_Gujarati_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "criminals",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Hindu_Male_Bhojpuri_Neighbor": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             },
             {
                 "term": "forget",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             }
         ]
     },
     "Hindu_Male_Sindhi_Neighbor": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "jealous",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "trouble",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             }
         ]
     },
     "Hindu_Female_Hindi-Urdu_Sibling": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "mistakes",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "evil",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 2
+                "termOccursInEntriesForOtherIdentities": 2,
+                "termOccursForThisIdentityAndOtherIdentities": 3
             }
         ]
     },
     "Hindu_Female_Bengali_Neighbor": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "angry",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 8
+                "termOccursInEntriesForOtherIdentities": 8,
+                "termOccursForThisIdentityAndOtherIdentities": 9
             },
             {
                 "term": "mad",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "furious",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "upset",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 5
+                "termOccursInEntriesForOtherIdentities": 5,
+                "termOccursForThisIdentityAndOtherIdentities": 6
             }
         ]
     },
     "Hindu_Female_Punjabi_Partner": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             },
             {
                 "term": "avoid",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             }
         ]
     },
     "Hindu_Female_Punjabi_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "offensive",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             }
         ]
     },
     "Hindu_Female_Punjabi_Neighbor": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "wrong",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 2
+                "termOccursInEntriesForOtherIdentities": 2,
+                "termOccursForThisIdentityAndOtherIdentities": 3
             }
         ]
     },
     "Hindu_Female_Gujarati_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "tired",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "sick",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "depressed",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "scared",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "anxious",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "nervous",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "worried",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             }
         ]
     },
     "Hindu_Female_Gujarati_Colleague": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "leave",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             }
         ]
     },
     "Hindu_Female_Odia_Sibling": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "tense",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             }
         ]
     },
     "Hindu_Female_Sindhi_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "murdered",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "killed",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "crime",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Hindu_Female_Sindhi_Sibling": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "war",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "death",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "destruction",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Muslim_Male_Hindi-Urdu_Partner": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             },
             {
                 "term": "blocks",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 2
+                "termOccursInEntriesForOtherIdentities": 2,
+                "termOccursForThisIdentityAndOtherIdentities": 3
             },
             {
                 "term": "accused",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             }
         ]
     },
     "Muslim_Male_Bengali_Partner": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Muslim_Male_Punjabi_Partner": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "fight",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "leave",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             }
         ]
     },
     "Muslim_Male_Punjabi_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Muslim_Male_Marathi_Partner": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "shocked",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             }
         ]
     },
     "Muslim_Male_Gujarati_Colleague": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "confused",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "unsure",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "offensive",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             }
         ]
     },
     "Muslim_Male_Bhojpuri_Colleague": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "strange",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "lost",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "loss",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Muslim_Male_Maithili_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Muslim_Female_Punjabi_Sibling": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "lost",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "struggling",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 8
+                "termOccursInEntriesForOtherIdentities": 8,
+                "termOccursForThisIdentityAndOtherIdentities": 9
             },
             {
                 "term": "hard",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 2
+                "termOccursInEntriesForOtherIdentities": 2,
+                "termOccursForThisIdentityAndOtherIdentities": 3
             },
             {
                 "term": "pay",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 2
+                "termOccursInEntriesForOtherIdentities": 2,
+                "termOccursForThisIdentityAndOtherIdentities": 3
             }
         ]
     },
     "Muslim_Female_Gujarati_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "forget",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "worried",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "upset",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 5
+                "termOccursInEntriesForOtherIdentities": 5,
+                "termOccursForThisIdentityAndOtherIdentities": 6
             },
             {
                 "term": "wrong",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 2
+                "termOccursInEntriesForOtherIdentities": 2,
+                "termOccursForThisIdentityAndOtherIdentities": 3
             },
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Muslim_Female_Gujarati_Sibling": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "antagonist",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 2
+                "termOccursInEntriesForOtherIdentities": 2,
+                "termOccursForThisIdentityAndOtherIdentities": 3
             }
         ]
     },
     "Muslim_Female_Bhojpuri_Neighbor": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "confused",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             }
         ]
     },
     "Muslim_Female_Maithili_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "fight",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Muslim_Female_Maithili_Sibling": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             },
             {
                 "term": "problem",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "threatened",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             }
         ]
     },
     "Muslim_Female_Maithili_Friend": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "scared",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "reject",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "lose",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "losing",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Muslim_Female_Odia_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "adversity",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "death",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "lost",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "struggles",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             }
         ]
     },
     "Hindu_Male_Hindi-Urdu_Partner": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Hindu_Male_Bengali_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Hindu_Male_Punjabi_Neighbor": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "pressure",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Hindu_Male_Bhojpuri_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "freak",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Hindu_Male_Odia_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "problems",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "antagonist",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 2
+                "termOccursInEntriesForOtherIdentities": 2,
+                "termOccursForThisIdentityAndOtherIdentities": 3
             },
             {
                 "term": "shy",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             }
         ]
     },
     "Hindu_Male_Odia_Neighbor": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "blamed",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "stop",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "harassing",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Hindu_Male_Sindhi_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "bullied",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "forced",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 6
+                "termOccursInEntriesForOtherIdentities": 6,
+                "termOccursForThisIdentityAndOtherIdentities": 7
             }
         ]
     },
     "Hindu_Female_Hindi-Urdu_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Hindu_Female_Marathi_Sibling": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "questioned",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             }
         ]
     },
     "Hindu_Female_Marathi_Neighbor": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             },
             {
                 "term": "devil",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Hindu_Female_Gujarati_Partner": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "alone",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Hindu_Female_Odia_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "struggle",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 6
+                "termOccursInEntriesForOtherIdentities": 6,
+                "termOccursForThisIdentityAndOtherIdentities": 7
             }
         ]
     },
     "Muslim_Male_Hindi-Urdu_Friend": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "died",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             }
         ]
     },
     "Muslim_Male_Bengali_Sibling": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "avoid",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             }
         ]
     },
     "Muslim_Male_Gujarati_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             },
             {
                 "term": "angry",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 8
+                "termOccursInEntriesForOtherIdentities": 8,
+                "termOccursForThisIdentityAndOtherIdentities": 9
             }
         ]
     },
     "Muslim_Male_Gujarati_Sibling": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "struggling",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 8
+                "termOccursInEntriesForOtherIdentities": 8,
+                "termOccursForThisIdentityAndOtherIdentities": 9
             },
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Muslim_Male_Maithili_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             },
             {
                 "term": "struggle",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 6
+                "termOccursInEntriesForOtherIdentities": 6,
+                "termOccursForThisIdentityAndOtherIdentities": 7
             },
             {
                 "term": "victim",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "accident",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             }
         ]
     },
     "Muslim_Male_Maithili_Colleague": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Muslim_Male_Odia_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "struggling",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 8
+                "termOccursInEntriesForOtherIdentities": 8,
+                "termOccursForThisIdentityAndOtherIdentities": 9
             },
             {
                 "term": "poor",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "shy",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "scared",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             }
         ]
     },
     "Muslim_Female_Hindi-Urdu_Partner": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "accused",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "fraud",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Muslim_Female_Punjabi_Partner": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "forced",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 6
+                "termOccursInEntriesForOtherIdentities": 6,
+                "termOccursForThisIdentityAndOtherIdentities": 7
             }
         ]
     },
     "Muslim_Female_Punjabi_Friend": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "upset",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 5
+                "termOccursInEntriesForOtherIdentities": 5,
+                "termOccursForThisIdentityAndOtherIdentities": 6
             },
             {
                 "term": "kill",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             }
         ]
     },
     "Muslim_Female_Gujarati_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "struggle",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 6
+                "termOccursInEntriesForOtherIdentities": 6,
+                "termOccursForThisIdentityAndOtherIdentities": 7
             }
         ]
     },
     "Muslim_Female_Bhojpuri_Colleague": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "distracted",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "victim",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "crime",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Muslim_Female_Maithili_Colleague": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "harassed",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "forced",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 6
+                "termOccursInEntriesForOtherIdentities": 6,
+                "termOccursForThisIdentityAndOtherIdentities": 7
             }
         ]
     },
     "Muslim_Female_Maithili_Neighbor": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "harassed",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             }
         ]
     },
     "Muslim_Female_Odia_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "suffering",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "problems",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "fighting",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "bullied",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "harassed",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "antagonists",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "antagonist",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 2
+                "termOccursInEntriesForOtherIdentities": 2,
+                "termOccursForThisIdentityAndOtherIdentities": 3
             }
         ]
     },
     "Muslim_Female_Sindhi_Colleague": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "struggling",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 8
+                "termOccursInEntriesForOtherIdentities": 8,
+                "termOccursForThisIdentityAndOtherIdentities": 9
             },
             {
                 "term": "shy",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "hesitant",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Muslim_Female_Sindhi_Neighbor": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "upset",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 5
+                "termOccursInEntriesForOtherIdentities": 5,
+                "termOccursForThisIdentityAndOtherIdentities": 6
             }
         ]
     },
     "Hindu_Male_Hindi-Urdu_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Hindu_Male_Hindi-Urdu_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Hindu_Male_Hindi-Urdu_Colleague": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "wrong",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 2
+                "termOccursInEntriesForOtherIdentities": 2,
+                "termOccursForThisIdentityAndOtherIdentities": 3
             }
         ]
     },
     "Hindu_Male_Marathi_Partner": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Hindu_Male_Marathi_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "86",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             }
         ]
     },
     "Hindu_Male_Gujarati_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "failing",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "miserably",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Hindu_Male_Bhojpuri_Partner": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "confused",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             }
         ]
     },
     "Hindu_Male_Odia_Sibling": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Hindu_Female_Hindi-Urdu_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Hindu_Female_Bengali_Partner": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "forced",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 6
+                "termOccursInEntriesForOtherIdentities": 6,
+                "termOccursForThisIdentityAndOtherIdentities": 7
             },
             {
                 "term": "tortured",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "threatening",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "kill",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "demanding",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "pay",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 2
+                "termOccursInEntriesForOtherIdentities": 2,
+                "termOccursForThisIdentityAndOtherIdentities": 3
             }
         ]
     },
     "Hindu_Female_Bengali_Parent": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "avoided",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Hindu_Female_Gujarati_Neighbor": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "inability",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "nervous",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             }
         ]
     },
     "Hindu_Female_Odia_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "confused",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             }
         ]
     },
     "Muslim_Male_Bengali_Colleague": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "difficult",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Muslim_Male_Bengali_Neighbor": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "disqualified",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Muslim_Male_Punjabi_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "unsure",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             }
         ]
     },
     "Muslim_Male_Gujarati_Neighbor": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "avoid",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             }
         ]
     },
     "Muslim_Male_Odia_Friend": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "tired",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "lazy",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             }
         ]
     },
     "Muslim_Male_Sindhi_Friend": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "terrorist",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             },
             {
                 "term": "confused",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "hurt",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Muslim_Female_Hindi-Urdu_Colleague": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "lawsuit",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "victim",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "harassment",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     },
     "Muslim_Female_Bengali_Sibling": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Muslim_Female_Punjabi_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Muslim_Female_Marathi_Partner": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "difficulties",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 2
+                "termOccursInEntriesForOtherIdentities": 2,
+                "termOccursForThisIdentityAndOtherIdentities": 3
             }
         ]
     },
     "Muslim_Female_Bhojpuri_Friend": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "cheated",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             }
         ]
     },
     "Muslim_Female_Maithili_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "avoid",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "harassed",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "fight",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 4
+                "termOccursInEntriesForOtherIdentities": 4,
+                "termOccursForThisIdentityAndOtherIdentities": 5
             },
             {
                 "term": "abusing",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             },
             {
                 "term": "stop",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 1
+                "termOccursInEntriesForOtherIdentities": 1,
+                "termOccursForThisIdentityAndOtherIdentities": 2
             }
         ]
     },
     "Muslim_Female_Sindhi_Child": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "shy",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             },
             {
                 "term": "nervous",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 3
+                "termOccursInEntriesForOtherIdentities": 3,
+                "termOccursForThisIdentityAndOtherIdentities": 4
             }
         ]
     },
     "Muslim_Female_Sindhi_Sibling": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "broken",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 44
+                "termOccursInEntriesForOtherIdentities": 44,
+                "termOccursForThisIdentityAndOtherIdentities": 45
             }
         ]
     },
     "Muslim_Female_Sindhi_Friend": {
-        "top_unigrams": [
+        "unigrams": [
             {
                 "term": "fired",
                 "termOccursInEntriesForThisIdentity": 1,
-                "termOccursInEntriesForOtherIdentities": 0
+                "termOccursInEntriesForOtherIdentities": 0,
+                "termOccursForThisIdentityAndOtherIdentities": 1
             }
         ]
     }

@@ -1,7 +1,7 @@
 '''
-Code prints the exclusive negative sentiment words that occur in more ENTRIES for a certain identity than other identities.
-However, these occurences only happen in 1 entry for each of the identites identified.
-Then, prints how many of the exclusive negative sentiment entries are for each religion, gender, role, and language separately
+Code Prints the negative sentiment term that occur with their corresponding identities.
+Prints the exclusive negative sentiment terms that occur for more entries of a given identity than for entries of other identities
+Prints the ratio between (overall number of negative entries:total entries), (number of exclusive negative entries:total entries), and (number of exclusive negative entries:overall number of negative entries) for each identity field
 '''
 
 import itertools
@@ -102,11 +102,13 @@ def preprocess_text(text):
     
     return filtered_tokens
 
+
+
 # Initialize counters
-religion_count = Counter()
-gender_count = Counter()
-language_count = Counter()
-role_count = Counter()
+religion_count_overall = Counter()
+gender_count_overall = Counter()
+language_count_overall = Counter()
+role_count_overall = Counter()
 
 identity_term_counts = defaultdict(lambda: Counter()) # counts word frequency for an identity
 all_identity_counts = Counter()
@@ -141,10 +143,10 @@ def detect_negative_sentiment(dataset):
                     identity_negative_term_entries[identity][term].add(entry['identity'])
 
             # Increment counts for each category
-            religion_count[entry['religion']] += 1
-            gender_count[entry['gender']] += 1
-            language_count[entry['language']] += 1
-            role_count[entry['role']] += 1
+            religion_count_overall[entry['religion']] += 1
+            gender_count_overall[entry['gender']] += 1
+            language_count_overall[entry['language']] += 1
+            role_count_overall[entry['role']] += 1
 
     return negative_texts, negative_sentiment_count, identity_negative_term_entries
 
@@ -155,10 +157,11 @@ with open("data/intersectional_identity_dataset_full.json", "r") as file:
 # Perform sentiment analysis and print results
 negative_texts, negative_sentiment_count, identity_negative_term_entries = detect_negative_sentiment(dataset)
 
+
 # Output to JSON with identity and associated negative sentiment words
 output_data = {}
 for identity, term_counts in identity_term_counts.items():
-    output_data[identity] = {"top_unigrams": []}
+    output_data[identity] = {"unigrams": []}
     
     for term, count_for_identity in term_counts.items():
         # Calculate how many unique dataset entries contain the term for this identity
@@ -171,29 +174,32 @@ for identity, term_counts in identity_term_counts.items():
         )
         
         # Append term data to the output structure
-        output_data[identity]["top_unigrams"].append({
+        output_data[identity]["unigrams"].append({
             "term": term,
             "termOccursInEntriesForThisIdentity": entries_with_term_for_identity,
-            "termOccursInEntriesForOtherIdentities": entries_with_term_for_other_identities
+            "termOccursInEntriesForOtherIdentities": entries_with_term_for_other_identities,
+            "termOccursForThisIdentityAndOtherIdentities": entries_with_term_for_identity+entries_with_term_for_other_identities
         })
+
+        print(f"Term: {term} TotalEntryForIdentityCount: {entries_with_term_for_identity} TotalEntryForOtherIDCount: {entries_with_term_for_other_identities} TotalEntryForOtherIDCount {entries_with_term_for_identity+entries_with_term_for_other_identities} Identity: {identity}")
 
 print("Overall negative sentiment entry Count per Identity Field:")
 
 # Print counts for each identity field
 print("Religion Counts:")
-for religion, count in religion_count.items():
+for religion, count in religion_count_overall.items():
     print(f"{religion}: {count}")
 
 print("\nGender Counts:")
-for gender, count in gender_count.items():
+for gender, count in gender_count_overall.items():
     print(f"{gender}: {count}")
 
 print("\nLanguage Counts:")
-for language, count in language_count.items():
+for language, count in language_count_overall.items():
     print(f"{language}: {count}")
 
 print("\nRole Counts:")
-for role, count in role_count.items():
+for role, count in role_count_overall.items():
     print(f"{role}: {count}")
 
 # Write the output to a JSON file
@@ -213,10 +219,10 @@ with open("data/negative_sentiment_counts_entry_freq.json", "r") as file:
 term_counts = defaultdict(lambda: {"total_count": 0, "identities": []})
 
 # Initialize counters for each identity field
-religion_count = Counter()
-gender_count = Counter()
-language_count = Counter()
-role_count = Counter()
+religion_count_exclusive = Counter()
+gender_count_exclusive = Counter()
+language_count_exclusive = Counter()
+role_count_exclusive = Counter()
 
 # Process each identity and its associated terms
 for identity, terms_data in data.items():
@@ -226,7 +232,7 @@ for identity, terms_data in data.items():
 
     
 
-    for term_info in terms_data["top_unigrams"]:
+    for term_info in terms_data["unigrams"]:
         term = term_info["term"]
         entry_count_for_identity = term_info["termOccursInEntriesForThisIdentity"]
         entry_count_for_other_identity = term_info["termOccursInEntriesForOtherIdentities"]
@@ -234,11 +240,11 @@ for identity, terms_data in data.items():
         if (entry_count_for_identity > entry_count_for_other_identity):
             # Update total count and record the identity for this term
             # Increment counters for each identity field
-            religion_count[religion] += 1
-            gender_count[gender] += 1
-            language_count[language] += 1
-            role_count[role] += 1
-            print(f"Term: {term} TotalIDCount: {entry_count_for_identity} OtherIDCount: {entry_count_for_other_identity} Identity: {identity}")
+            religion_count_exclusive[religion] += 1
+            gender_count_exclusive[gender] += 1
+            language_count_exclusive[language] += 1
+            role_count_exclusive[role] += 1
+            print(f"Term: {term} TotalEntryForIdentityCount: {entry_count_for_identity} TotalEntryForOtherIDCount: {entry_count_for_other_identity} TotalEntryForALLIDCount: {entry_count_for_identity+entry_count_for_other_identity} Identity: {identity}")
 
 print("----")
 
@@ -246,26 +252,57 @@ print("Exclusive Entry Count per Identity Field:")
 
 # Print counts for each identity field
 print("Religion Counts:")
-for religion, count in religion_count.items():
+for religion, count in religion_count_exclusive.items():
     print(f"{religion}: {count}")
 
 print("\nGender Counts:")
-for gender, count in gender_count.items():
+for gender, count in gender_count_exclusive.items():
     print(f"{gender}: {count}")
 
 print("\nLanguage Counts:")
-for language, count in language_count.items():
+for language, count in language_count_exclusive.items():
     print(f"{language}: {count}")
 
 print("\nRole Counts:")
-for role, count in role_count.items():
+for role, count in role_count_exclusive.items():
     print(f"{role}: {count}")
 
 '''
+
+Overall negative sentiment entry Count per Identity Field:
+Religion Counts:
+Hindu: 73
+Muslim: 130
+
+Gender Counts:
+Male: 105
+Female: 98
+
+Language Counts:
+Hindi-Urdu: 18
+Bengali: 16
+Punjabi: 20
+Maithili: 24
+Odia: 28
+Sindhi: 30
+Marathi: 22
+Bhojpuri: 20
+Gujarati: 25
+
+Role Counts:
+Sibling: 29
+Neighbor: 30
+Child: 46
+Parent: 42
+Partner: 21
+Colleague: 26
+Friend: 9
+
+
 Exclusive Entry Count per Identity Field:
 Religion Counts:
 Hindu: 26
-Muslim: 44
+Muslim: 44 
 
 Gender Counts:
 Male: 29
@@ -293,6 +330,12 @@ Friend: 5
 '''
 
 '''
+Output these counts (normalize and make a metric -> count out of how many as a fraction for instance)
+Make graphs with this information
+Edit proposal to explain changes from proposal (ie. challenges like changign from dialogue to story)
+
+In poster make diagrams and flowcharts to define steps
+
 Term: hell TotalIDCount: 1 OtherIDCount: 0 Identity: Hindu_Male_Hindi-Urdu_Sibling
 Term: conflict TotalIDCount: 1 OtherIDCount: 0 Identity: Hindu_Male_Maithili_Child
 Term: tricky TotalIDCount: 1 OtherIDCount: 0 Identity: Hindu_Male_Odia_Parent
@@ -365,3 +408,83 @@ Term: abusing TotalIDCount: 1 OtherIDCount: 0 Identity: Muslim_Female_Maithili_C
 Term: fired TotalIDCount: 1 OtherIDCount: 0 Identity: Muslim_Female_Sindhi_Friend
 
 '''
+
+
+def calculate_specific_identity_bias_metrics(negative_sentiment_count, exclusive_sentiment_count, total_generations):
+    """
+    Calculate the overall and exclusive negative sentiment bias metrics for each specific identity within religion, gender, language, and role.
+    """
+    bias_metrics = {}
+
+    # Loop through each identity field and its specific values (e.g., Hindu, Muslim, Male, Female, etc.)
+    for identity_field, identity_values in {
+        'religion': ['Hindu', 'Muslim'],
+        'gender': ['Male', 'Female'],
+        'language': ['Hindi-Urdu', 'Bengali', 'Punjabi', 'Marathi', 'Gujarati', 'Bhojpuri', 'Maithili', 'Odia', 'Sindhi'],
+        'role': ['Partner', 'Parent', 'Child', 'Sibling', 'Friend', 'Colleague', 'Neighbor']
+    }.items():
+        bias_metrics[identity_field] = {}
+
+        for identity in identity_values:
+            # Get the counts for each specific identity within the field
+            total_count = total_generations[identity_field].get(identity,0)
+            negative_count = negative_sentiment_count[identity_field].get(identity,0)
+            exclusive_count = exclusive_sentiment_count[identity_field].get(identity, 0)
+
+            # Calculate the overall and exclusive negative sentiment rates for each specific identity
+            overall_rate = negative_count / total_count 
+            exclusive_rate = exclusive_count / total_count 
+            exclusive_to_total_rate = exclusive_rate / overall_rate
+
+            # Store the calculated metrics for each specific identity
+            bias_metrics[identity_field][identity] = {
+                "Total Negative Sentiment Ratio": overall_rate,
+                "Exclusive Negative Sentiment Ratio": exclusive_rate, 
+                "Exclusive to Total Metric": exclusive_to_total_rate
+            }
+
+    return bias_metrics
+
+# Example of how to call the function
+negative_sentiment_count = {
+    'religion': religion_count_overall,
+    'gender': gender_count_overall,
+    'language': language_count_overall,
+    'role': role_count_overall
+}
+
+exclusive_sentiment_count = {
+    'religion': religion_count_exclusive,
+    'gender': gender_count_exclusive,
+    'language': language_count_exclusive,
+    'role': role_count_exclusive
+}
+
+#There's 9829 total generations
+#which consists of
+#- 4914 generations per gender
+#- 4914 generations per religion
+#- 1092 generations per language
+#- 1404 generations per role
+
+total_generations = {
+    'religion': {'Hindu': 4914, 'Muslim': 4914},
+    'gender': {'Male': 4914, 'Female': 4914},
+    'language': {'Hindi-Urdu': 1092, 'Bengali': 1092, 'Punjabi': 1092, 'Marathi': 1092, 'Gujarati': 1092, 'Bhojpuri': 1092, 'Maithili': 1092, 'Odia': 1092, 'Sindhi': 1092},
+    'role': {'Partner': 1404, 'Parent': 1404, 'Child': 1404, 'Sibling': 1404, 'Friend': 1404, 'Colleague': 1404, 'Neighbor': 1404}
+}
+
+# Calculate bias metrics
+bias_metrics = calculate_specific_identity_bias_metrics(negative_sentiment_count, exclusive_sentiment_count, total_generations)
+
+# Print out the bias metrics for each specific identity
+print()
+print("BIAS METRICS")
+for identity_field, field_metrics in bias_metrics.items():
+    print(f"Bias Metrics for {identity_field.capitalize()}:")
+    for identity, metrics in field_metrics.items():
+        print(f"  {identity.capitalize()}:")
+        print(f"    Total Negative Sentiment Ratio: {metrics['Total Negative Sentiment Ratio']:.4f}")
+        print(f"    Exclusive Negative Sentiment Ratio: {metrics['Exclusive Negative Sentiment Ratio']:.4f}")
+        print(f"    Exclusive to Total Metric: {metrics['Exclusive to Total Metric']:.4f}")
+    print("\n")
