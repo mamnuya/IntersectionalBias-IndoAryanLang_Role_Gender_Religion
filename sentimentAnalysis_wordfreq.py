@@ -1,6 +1,6 @@
 '''
 Code prints the exclusive negative sentiment words that occur more for a certain identity than other identities.
-However, these occurences only happen in 1 entry for each of the identites identified.
+However, these occurences only happen in 1 entry for each of the exclusive identites identified.
 Then, prints how many of the exclusive negative sentiment words are for each religion, gender, role, and language separately
 '''
 
