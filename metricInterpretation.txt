@@ -1,9 +1,10 @@
-Interpretation of Bias Metrics
+INTERPRETATION KEY OF BIAS METRICS
 Bias Ratio for both Overall and Exclusive negative sentiment rates, compare each identity's sentiment rates to the global average.
 -Higher Bias Ratio (greater than 1): Suggests the identity is being unfairly associated with negative sentiment.
 -Lower Bias Ratio (less than 1): Suggests the identity is underrepresented in negative sentiment.
 -Bias Ratio near 1: Suggests the identity’s negative sentiment association is similar to the global average.
 
+INTERPRETATION OF BIAS METRICS FOR OUR DATA
 Religion Bias Interpretation
 Hindu:
 Overall Negative Sentiment Rate: 0.0149
@@ -149,21 +150,42 @@ Exclusive Bias Ratio: 0.8000
 Interpretation: The Neighbor role has low overall negative sentiment but slightly higher exclusive negative sentiment, suggesting mild bias.
 
 
+BACKGROUND - SIMILAR METRICS
+similar metric from BOLD (Bias in Open-ended Language Generation) dataset https://arxiv.org/pdf/2101.11718
+bias metrics and calculations closely align with the: BOLD (Bias in Open-ended Language Generation) dataset methodology
 
+calculate "Overall Negative Sentiment Rate" and "Exclusive Negative Sentiment Rate" for each identity group in our code 
+BOLD looks at the sentiment polarity of generated outputs (e.g., positivity vs. negativity) across different groups (e.g., gender, race, religion, and more).
+However, we directly compare the negative sentiment
+
+BOLD and our code methods incorporate exclusive sentiment measures to capture the sentiment specifically directed at an identity group. 
+In BOLD, bias is measured by calculating the disparity in sentiment towards different groups, while in our metrics, 
+we calculate "Exclusive Negative Sentiment Rate" to see how often a specific identity is the target of negative sentiment
+
+BOLD and our code calculate global averages across identity groups. 
+Our code computes a global average sentiment rate across all groups to compare individual group bias ratios, which helps understand the relative degree of bias for each identity. 
+BOLD computes a global average across all identity categories and measures how deviations from this average might indicate bias towards specific identities.
+
+Bias ratios
+BOLD computed bias ratios by comparing the prevalence of positive or negative sentiment in model outputs for different identity groups, identifying significant biases in the model's behavior​
+Our code Bias ratios help assess whether an identity is over- or under-represented in terms of negative sentiment and to help understand how different identity groups are disproportionately impacted by negative language.
+
+However, our metric focuses more on measuring explicit negative sentiment, instead of several sentiments.
+
+
+
+METRICS EXPLAINED
 1. Understanding Negative Sentiment Rates (Overall and Exclusive)
 Overall Negative Sentiment Rate: Measures the rate of all negative sentiments associated with each identity, regardless of whether that sentiment is uniquely associated with that identity.
-
 Purpose: It helps identify the general tendency of negative sentiment toward an identity, showing if there’s an overall bias (for example, a higher general tendency to associate negative language with a specific gender).
 
 Exclusive Negative Sentiment Rate: Measures the rate of negative sentiment that is uniquely or disproportionately associated with a specific identity compared to other identities within the same category.
-
 Purpose: This metric reveals if certain negative sentiments are particularly directed at specific identities, even when compared to others in the same category (e.g., “Muslim” vs. “Hindu” in the religion category). It captures potential stereotypes or prejudices that may not appear in overall sentiment alone.
 
 2. Why Calculate Global Averages?
-The global averages (for both overall and exclusive rates) serve as a baseline or reference point for what is typical across all identities.
+The global averages (for both overall and exclusive rates) serve as a reference point for what is typical across all identities.
 By establishing these averages, we can normalize the individual negative sentiment rates for each identity and objectively compare them.
 This allows us to see if any specific identity stands out for having a higher or lower negative sentiment rate than the baseline average.
-Without this baseline, it would be difficult to determine if a particular identity’s negative sentiment rate is unusually high, or if it just reflects a general trend across all identities.
 
 3. Why Calculate Bias Ratios?
 Bias ratios provide a way to quantify the degree of bias relative to the dataset as a whole. These ratios show how much each identity’s negative sentiment rate deviates from the global average.
@@ -174,6 +196,5 @@ Ratios below 1 suggest a lower-than-average rate of negative sentiment, indicati
 Bias ratios make it easier to identify outliers in terms of bias, providing a clear, quantitative way to see if any particular identity experiences significantly different treatment.
 
 4. Why This Methodology is Meaningful for Bias Assessment
-Objectivity: These metrics allow for an objective, quantitative analysis of bias in data, avoiding subjective judgments about which identities might be biased.
 Comparative Analysis: Calculating bias ratios against a global average allows comparisons across different identities, making it clear if certain identities are subject to disproportionate treatment in the dataset.
 Identifying Stereotypes: The exclusive negative sentiment rate and its ratio are particularly useful for identifying stereotypes that might not appear if only overall rates were considered.
