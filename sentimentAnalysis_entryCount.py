@@ -353,7 +353,7 @@ Output these counts (normalize and make a metric -> count out of how many as a f
 Make graphs with this information
 Edit proposal to explain changes from proposal (ie. challenges like changign from dialogue to story)
 
-In poster make diagrams and flowcharts to define steps
+In poster make diagrams and flowcharts to define steps, edit the ones that already exist
 
 Term: hell TotalIDCount: 1 OtherIDCount: 0 Identity: Hindu_Male_Hindi-Urdu_Sibling
 Term: conflict TotalIDCount: 1 OtherIDCount: 0 Identity: Hindu_Male_Maithili_Child
