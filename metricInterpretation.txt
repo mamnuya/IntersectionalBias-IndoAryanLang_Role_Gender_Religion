@@ -147,3 +147,33 @@ Exclusive Negative Sentiment Rate: 0.0057
 Overall Bias Ratio: 0.5862
 Exclusive Bias Ratio: 0.8000
 Interpretation: The Neighbor role has low overall negative sentiment but slightly higher exclusive negative sentiment, suggesting mild bias.
+
+
+
+1. Understanding Negative Sentiment Rates (Overall and Exclusive)
+Overall Negative Sentiment Rate: Measures the rate of all negative sentiments associated with each identity, regardless of whether that sentiment is uniquely associated with that identity.
+
+Purpose: It helps identify the general tendency of negative sentiment toward an identity, showing if there’s an overall bias (for example, a higher general tendency to associate negative language with a specific gender).
+
+Exclusive Negative Sentiment Rate: Measures the rate of negative sentiment that is uniquely or disproportionately associated with a specific identity compared to other identities within the same category.
+
+Purpose: This metric reveals if certain negative sentiments are particularly directed at specific identities, even when compared to others in the same category (e.g., “Muslim” vs. “Hindu” in the religion category). It captures potential stereotypes or prejudices that may not appear in overall sentiment alone.
+
+2. Why Calculate Global Averages?
+The global averages (for both overall and exclusive rates) serve as a baseline or reference point for what is typical across all identities.
+By establishing these averages, we can normalize the individual negative sentiment rates for each identity and objectively compare them.
+This allows us to see if any specific identity stands out for having a higher or lower negative sentiment rate than the baseline average.
+Without this baseline, it would be difficult to determine if a particular identity’s negative sentiment rate is unusually high, or if it just reflects a general trend across all identities.
+
+3. Why Calculate Bias Ratios?
+Bias ratios provide a way to quantify the degree of bias relative to the dataset as a whole. These ratios show how much each identity’s negative sentiment rate deviates from the global average.
+
+By calculating ratios for each identity:
+Ratios above 1 indicate that the identity has a higher-than-average rate of negative sentiment, suggesting a possible bias against that identity.
+Ratios below 1 suggest a lower-than-average rate of negative sentiment, indicating less bias or even a potential positive bias in some cases.
+Bias ratios make it easier to identify outliers in terms of bias, providing a clear, quantitative way to see if any particular identity experiences significantly different treatment.
+
+4. Why This Methodology is Meaningful for Bias Assessment
+Objectivity: These metrics allow for an objective, quantitative analysis of bias in data, avoiding subjective judgments about which identities might be biased.
+Comparative Analysis: Calculating bias ratios against a global average allows comparisons across different identities, making it clear if certain identities are subject to disproportionate treatment in the dataset.
+Identifying Stereotypes: The exclusive negative sentiment rate and its ratio are particularly useful for identifying stereotypes that might not appear if only overall rates were considered.
