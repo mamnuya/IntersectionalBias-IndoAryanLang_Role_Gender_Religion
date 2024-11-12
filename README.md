@@ -1,6 +1,6 @@
 # Credit Score Classification
 
-This project explores biases categorized by negative sentiments when prompting Llama3.2 with intersectional identities (Indo-Aryan language spoken, gender, religion, and role) for 3 different applications (to-do list, hobby and values, and story, generation).
+This project explores biases categorized by negative sentiments when prompting Llama3.2 with intersectional identities (Indo-Aryan language spoken, gender, religion, and role) for 3 different applications (generation of to-do lists, hobbies and values, and stories).
 
 This project includes a written report evaluating results, methods, motivations, previous studies, and more.
 
