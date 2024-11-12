@@ -16,11 +16,11 @@ This project includes a written report evaluating results, methods, motivations,
 data/intersectional_identity_dataset_full.json holds our full raw dataset.
 
 ### Finding Biased Associations
-sentimentAnalysis_entryCount.py: prints the negative sentiment term that occur with their corresponding identities. Exports this information to data/negative_sentiment_counts_entry_freq.json. Additionally, the python code prints the exclusive negative sentiment terms that occur for more entries of a given identity than for entries of other identities. At the end, it prints the counts and metrics for each identity field. 
+sentimentAnalysis_entryCount.py: cleans the dataset and prints the negative sentiment term that occur with their corresponding identities. Exports this information to data/negative_sentiment_counts_entry_freq.json. Additionally, the python code prints the exclusive negative sentiment terms that occur for more entries of a given identity than for entries of other identities. At the end, it prints the counts and metrics for each identity field. 
 
 
 ### Finding Top Associations (no bias)
-findIdentityAssociations.py: finds the top 25 unigram, bigrams, and trigrams for each identity that occurs for more than 2 generations for that identity. This exports information to data/identity_marker_counts_25.json
+findIdentityAssociations.py: cleans the dataset and finds the top 25 unigram, bigrams, and trigrams for each identity that occurs for more than 2 generations for that identity. This exports information to data/identity_marker_counts_25.json
 
 exclusiveIdentityAssociations.py finds the finds the unigram, bigrams, and trigrams from the top 25 associations
 that occurs as the top association that occur in more entries for a given identity than any other identities. exports information to data/identity_trends.json. Then, prints the ngrams (from most common to least common) with an identity it corresponds to the most, and the list of identities for which it also often occurs.
@@ -42,7 +42,7 @@ Keep the intersectional_identity_dataset.json file under the data folder with th
 
 Run the command:
 ```
-# To clean, perform sentiment analysis on data, print negative terms with associated identities and those that are exclusive to an identity, quantify information, and print metrics.
+# Perform sentiment analysis on data, print negative terms with associated identities and those that are exclusive to an identity, quantify information, and print metrics.
 python sentimentAnalysis_entryCount.py
 ```
 
