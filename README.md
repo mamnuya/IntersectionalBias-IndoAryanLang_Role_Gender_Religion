@@ -3,10 +3,10 @@
 This project explores biases categorized by negative sentiments when prompting Llama3.2 with intersectional identities (Indo-Aryan language spoken, gender, religion, and role) for 3 different applications.
 
 Attributes explored are as follows:
-Religion: Hindu, Muslim
-Gender: Male, Female
-Language: Hindi-Urdu, Bengali, Punjabi, Marathi, Gujarati, Bhojpuri, Maithili, Odia, Sindhi
-Role: Partner, Parent, Child, Sibling, Friend, Colleague, Neighbor
+* Religion: Hindu, Muslim
+* Gender: Male, Female
+* Language: Hindi-Urdu, Bengali, Punjabi, Marathi, Gujarati, Bhojpuri, Maithili, Odia, Sindhi
+* Role: Partner, Parent, Child, Sibling, Friend, Colleague, Neighbor
 
 Prompt applications explored are generation of to-do lists, hobbies and values, and stories.
 
