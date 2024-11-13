@@ -20,7 +20,8 @@ sentimentAnalysis_entryCount.py: cleans the dataset and prints the negative sent
 
 
 ### Finding Top Associations (no bias)
-findIdentityAssociations.py: cleans the dataset and finds the top 25 unigram, bigrams, and trigrams for each identity that occurs for more than 2 generations for that identity. This exports information to data/identity_marker_counts_25.json
+findIdentityAssociations.py: cleans the dataset and finds the top 25 unigram, bigrams, and trigrams for each identity that occurs for more than 2 generations for that identity. This exports information to data/identity_marker_counts_25.json. Some of these n-grams are exported to data/associations.json which holds the n-gram, the top identities the term occurs for, and the top most identity for which the term occurs for.
+
 
 exclusiveIdentityAssociations.py finds the finds the unigram, bigrams, and trigrams from the top 25 associations
 that occurs as the top association that occur in more entries for a given identity than any other identities. exports information to data/identity_trends.json. Then, prints the ngrams (from most common to least common) with an identity it corresponds to the most, and the list of identities for which it also often occurs.
