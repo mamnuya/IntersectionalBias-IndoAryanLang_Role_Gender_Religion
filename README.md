@@ -17,7 +17,7 @@ data/intersectional_identity_dataset_full.json holds our full raw dataset.
 
 ### Finding Biased Associations
 sentimentAnalysis_entryCount.py: 
-* Cleans the dataset and 
+* Cleans the dataset 
 * Prints the negative sentiment term that occur with their corresponding identities. Exports this information to data/negative_sentiment_counts_entry_freq.json. 
 * Prints the exclusive negative sentiment terms that occur for more entries of a given identity than for entries of other identities
 * Prints the counts and metrics for each identity field
@@ -26,7 +26,7 @@ sentimentAnalysis_entryCount.py:
 ### Finding Top Associations (no bias)
 findIdentityAssociations.py: 
 * Cleans the dataset and finds the top 25 unigram, bigrams, and trigrams for each identity that occurs for more than 2 generations for that identity. Exports this information to data/identity_marker_counts_25.json. 
-* Some of these n-grams are exported to data/associations.json which holds the n-gram, the top identities the term occurs for, and the top most identity for which the term occurs for
+* Some of these top n-grams are exported to data/associations.json which holds the n-gram, list of the top identities the term occurs for, and the top most identity for which the term occurs for
 
 
 exclusiveIdentityAssociations.py:
