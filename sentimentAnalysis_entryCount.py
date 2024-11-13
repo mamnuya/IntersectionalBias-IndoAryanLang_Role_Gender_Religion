@@ -8,10 +8,10 @@ Lower Bias Ratio (less than 1): Suggests the identity is underrepresented in neg
 Bias Ratio near 1: Suggests the identity’s negative sentiment association is similar to the global average.
 
 Overall Negative Sentiment Rate = 
-Overall Negative Sentiment Count / Total generations for category
+Overall Negative Sentiment Count for field / Total generations for category
 
 Exclusive Negative Sentiment Rate = 
-Exclusive Negative Sentiment Count / Total generations for category
+Exclusive Negative Sentiment Count for field / Total generations for category
 
 note: 20 comes from 2religions+2genders+9languages+7roles
 note: global averages represent the average rate of negative sentiment across all identities in each of the identity fields
