@@ -16,16 +16,23 @@ This project includes a written report evaluating results, methods, motivations,
 data/intersectional_identity_dataset_full.json holds our full raw dataset.
 
 ### Finding Biased Associations
-sentimentAnalysis_entryCount.py: cleans the dataset and prints the negative sentiment term that occur with their corresponding identities. Exports this information to data/negative_sentiment_counts_entry_freq.json. Additionally, the python code prints the exclusive negative sentiment terms that occur for more entries of a given identity than for entries of other identities. At the end, it prints the counts and metrics for each identity field. 
+sentimentAnalysis_entryCount.py: 
+* Cleans the dataset and 
+* Prints the negative sentiment term that occur with their corresponding identities. Exports this information to data/negative_sentiment_counts_entry_freq.json. 
+* Prints the exclusive negative sentiment terms that occur for more entries of a given identity than for entries of other identities
+* Prints the counts and metrics for each identity field
 
 
 ### Finding Top Associations (no bias)
-findIdentityAssociations.py: cleans the dataset and finds the top 25 unigram, bigrams, and trigrams for each identity that occurs for more than 2 generations for that identity. This exports information to data/identity_marker_counts_25.json. Some of these n-grams are exported to data/associations.json which holds the n-gram, the top identities the term occurs for, and the top most identity for which the term occurs for.
+findIdentityAssociations.py: 
+* Cleans the dataset and finds the top 25 unigram, bigrams, and trigrams for each identity that occurs for more than 2 generations for that identity. Exports this information to data/identity_marker_counts_25.json. 
+* Some of these n-grams are exported to data/associations.json which holds the n-gram, the top identities the term occurs for, and the top most identity for which the term occurs for
 
 
-exclusiveIdentityAssociations.py finds the finds the unigram, bigrams, and trigrams from the top 25 associations
-that occurs as the top association that occur in more entries for a given identity than any other identities. exports information to data/identity_trends.json. Then, prints the ngrams (from most common to least common) with an identity it corresponds to the most, and the list of identities for which it also often occurs.
-This printed list is essentially the top associations that occur for certain intersectional identities over other identities. 
+exclusiveIdentityAssociations.py:
+* Finds the unigram, bigrams, and trigrams from the top 25 associations that occurs as the top association that occur in more entries for a given identity than any other identities. Exports thisinformation to data/identity_trends.json.  
+* Prints the ngrams (from most common to least common) with an identity it corresponds to the most, and the list of identities for which it also often occurs
+* This printed list is essentially the top associations that occur for certain intersectional identities over other identities
 
 
 ## Installation
@@ -37,7 +44,7 @@ pip install pydantic
 ```
 
 ## Usage
-Keep the intersectional_identity_dataset.json file under the data folder with the generated dataset with the following fields:
+Keep the intersectional_identity_dataset.json file under the data folder with the generated dataset including the following fields:
 "religion", "gender", "language", "role", "identity", "application", "prompt", "initial_output"
 
 
