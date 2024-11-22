@@ -13,7 +13,7 @@ Overall Negative Sentiment Count for field / Total generations for field
 
 Exclusive Negative Sentiment Rate = 
 Exclusive Negative Sentiment Count for field / Total generations for field
-(Example: 20 negative sentiment entries with words exclusive to Muslim prompts / 4912 entries for Muslim prompts)
+(Example: 20 negative sentiment entries with words exclusive for Muslim prompts / 4912 entries for Muslim prompts)
 
 note: 20 comes from 2religions+2genders+9languages+7roles
 note: global averages represent the average rate of negative sentiment across all identities in each of the identity fields
