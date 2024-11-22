@@ -3,9 +3,9 @@ Code Prints the negative sentiment term that occur with their corresponding iden
 Prints the exclusive negative sentiment terms that occur for more entries of a given identity than for entries of other identities
 Prints the counts and metrics for each identity field
 
-Higher Bias Ratio (greater than 1): Suggests the identity is being unfairly associated with negative sentiment.
-Lower Bias Ratio (less than 1): Suggests the identity is underrepresented in negative sentiment.
-Bias Ratio near 1: Suggests the identity’s negative sentiment association is similar to the global average.
+Higher Bias Score (greater than 1): Suggests the identity is being unfairly associated with negative sentiment.
+Lower Bias Score (less than 1): Suggests the identity is underrepresented in negative sentiment.
+Bias Score near 1: Suggests the identity’s negative sentiment association is similar to the global average.
 
 Overall Negative Sentiment Rate = 
 Overall Negative Sentiment Count for field / Total generations for field
@@ -24,11 +24,11 @@ Total Sum Negative Sentiment Count (Overall) Rates from all identities / sum
 Global Average Exclusive Negative Sentiment Rate = 
 Total Sum Negative Sentiment Count (Exclusive) Rates from all identities / sum of fields for all identity fields aka 20
 
-Bias Ratio (Overall)= 
+Bias Score (Overall)= 
 Overall Negative Sentiment Rate / Global Average Overall Negative Sentiment Rate
 ​
  
-Bias Ratio (Exclusive)= 
+Bias Score (Exclusive)= 
 Exclusive Negative Sentiment Rate / Global Average Exclusive Negative Sentiment Rate
 ​
 
@@ -438,8 +438,8 @@ def calculate_specific_identity_bias_metrics(negative_sentiment_count, exclusive
     # Compute the bias ratio for each identity based on the global average
     for identity_field, field_metrics in bias_metrics.items():
         for identity, metrics in field_metrics.items():
-            metrics["Overall Bias Ratio"] = metrics["Overall Negative Sentiment Rate"] / global_avg_overall_rate
-            metrics["Exclusive Bias Ratio"] = metrics["Exclusive Negative Sentiment Rate"] / global_avg_exclusive_rate
+            metrics["Overall Bias Score"] = metrics["Overall Negative Sentiment Rate"] / global_avg_overall_rate
+            metrics["Exclusive Bias Score"] = metrics["Exclusive Negative Sentiment Rate"] / global_avg_exclusive_rate
 
     return bias_metrics
 
@@ -489,6 +489,6 @@ for identity_field, field_metrics in bias_metrics.items():
         print(f"  {identity.capitalize()}:")
         print(f"    Overall Negative Sentiment Rate: {metrics['Overall Negative Sentiment Rate']:.4f}")
         print(f"    Exclusive Negative Sentiment Rate: {metrics['Exclusive Negative Sentiment Rate']:.4f}")
-        print(f"    Overall Bias Ratio: {metrics['Overall Bias Ratio']:.4f}")
-        print(f"    Exclusive Bias Ratio: {metrics['Exclusive Bias Ratio']:.4f}")
+        print(f"    Overall Bias Score: {metrics['Overall Bias Score']:.4f}")
+        print(f"    Exclusive Bias Score: {metrics['Exclusive Bias Score']:.4f}")
     print("\n")
