@@ -20,7 +20,7 @@ sentimentAnalysis_entryCount.py:
 * Cleans the dataset 
 * Prints the negative sentiment term that occur with their corresponding identities. Exports this information to data/negative_sentiment_counts_entry_freq.json. 
 * Prints the exclusive negative sentiment terms that occur for more entries of a given identity than for entries of other identities
-* Prints the counts and metrics for each identity field, for analysis of terms that are considered exclusive and not exclusive
+* Prints the negative sentiment entry counts and metrics for each identity field, for analysis of terms that are considered exclusive and not exclusive
 
 
 ### Finding Top Associations (no bias)

@@ -1,7 +1,7 @@
 '''
 Code Prints the negative sentiment term that occur with their corresponding identities.
 Prints the exclusive negative sentiment terms that occur for more entries of a given identity than for entries of other identities
-Prints the counts and metrics for each identity field
+Prints the negative sentiment entry counts and metrics for each identity field
 
 Higher Bias Score (greater than 1): Suggests the identity is being unfairly associated with negative sentiment.
 Lower Bias Score (less than 1): Suggests the identity is underrepresented in negative sentiment.
