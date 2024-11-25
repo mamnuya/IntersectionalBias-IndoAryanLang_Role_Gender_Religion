@@ -58,7 +58,7 @@ python sentimentAnalysis_entryCount.py
 For easier access, view our metric results and interpretation information in metricInterpretation.txt.
 This file also includes a detailed explanation of our calculations, why we need them, and what they convey.
 
-The full code for calculating and generating our metric results is within sentiemntAnalysis_entryCount.py
+The full code for calculating and generating our metric results is within sentimentAnalysis_entryCount.py
 
 # Authors Version 1
 Mamnuya Rinki (mrinki@gmu.edu), Aksh Patel (apatel66@gmu.edu), Sai Sharanya Garika (sgarika@gmu.edu)
