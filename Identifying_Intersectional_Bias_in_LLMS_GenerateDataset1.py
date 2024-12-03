@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# View **tasks** https://gmuedu-my.sharepoint.com/:x:/r/personal/mrinki_gmu_edu/Documents/NLP%20Research/advanced%20NLP%20Final%20Project/Tasks.xlsx?d=w2517cb3610de45b3b5ac186a39a5e24b&csf=1&web=1&e=uatJdT
-
 # We will load a Llama 3 model in a quantized manner.
 # 
 # Adapting loading from this code:
@@ -16,8 +14,6 @@
 # * Generate a WRITE PERMISSION user access token at https://huggingface.co/settings/tokens
 # * under Colab Secrets tab, create HF_TOKEN with value of your token
 # * Switch to GPU to run code without errors
-# * If no access to hooper; Try runpod.io (~.2 dollars per hour) -suggested by Anjishnu
-# 
 # 
 
 # In[ ]:
