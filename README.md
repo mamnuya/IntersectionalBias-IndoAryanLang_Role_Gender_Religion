@@ -31,9 +31,9 @@ metricInterpretation.txt:
 * Detailed explanation of calculations, bias score results, and interpretation of level of bias
 
 
-### Finding Top Associations (no bias)
+### Finding Top Associations (unbiased)
 findIdentityAssociations.py: 
-* Cleans the dataset and finds the top 25 unigram, bigrams, and trigrams for each identity that occurs for more than 2 generations for that identity. Exports this information to data/identity_marker_counts_25.json, which does not define categories of terms.
+* Cleans the dataset and finds the top 25 unigram, bigrams, and trigrams for each identity that occurs for more than 2 generations for that identity. Exports this information to data/identity_marker_counts_25.json, which does not define categories of n-grams.
 * Some of these top n-grams are included in data/associations.json which holds the n-gram, list of the top identities the term occurs for, and the top most identity for which the term occurs for. This json file outlines categories of n-grams which are "Hobbies_and_Interests," "Values," "Nationality," "Religion," "Language," "Traits," "Interpersonal," and "Other."
 * NOTE: SOME of the top n-grams are exported to data/associations.json, but not all top n-grams. To observe ALL of the top n-grams, observe data/identity_marker_counts_25.json. 
 
