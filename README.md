@@ -19,7 +19,7 @@ data/intersectional_identity_dataset_full.json holds our full raw dataset, which
 python Identifying_Intersectional_Bias_in_LLMS_GenerateDataset1.py
 ```
 
-### Finding Biased Associations
+### Finding Biased Associations (Negative Sentiment)
 sentimentAnalysis_entryCount.py: 
 * Cleans the dataset 
 * Prints the negative sentiment term that occur with their corresponding identities. Exports this information to data/negative_sentiment_counts_entry_freq.json. 
@@ -31,7 +31,7 @@ metricInterpretation.txt:
 * Detailed explanation of calculations, bias score results, and interpretation of level of bias
 
 
-### Finding Top Associations (unbiased)
+### Finding Top Associations (Not Analyzed for Sentiment)
 findIdentityAssociations.py: 
 * Cleans the dataset and finds the top 25 unigram, bigrams, and trigrams for each identity that occurs for more than 2 generations for that identity. Exports this information to data/identity_marker_counts_25.json, which does not define categories of n-grams.
 * Some of these top n-grams are included in data/associations.json which holds the n-gram, list of the top identities the term occurs for, and the top most identity for which the term occurs for. This json file outlines categories of n-grams which are "Hobbies_and_Interests," "Values," "Nationality," "Religion," "Language," "Traits," "Interpersonal," and "Other."
