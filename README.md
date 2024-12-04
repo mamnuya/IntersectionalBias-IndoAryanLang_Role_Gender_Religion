@@ -41,7 +41,7 @@ findIdentityAssociations.py:
 
 
 exclusiveIdentityAssociations.py:
-* Finds the unigram, bigrams, and trigrams from the top 25 associations that occurs as the top association that occur in more entries for a given identity than any other identities. Exports thisinformation to data/identity_trends.json.  
+* Finds the unigram, bigrams, and trigrams from the top 25 associations that occurs as the top association that occur in more entries for a given identity than any other identities. Exports this information to data/identity_trends.json.  
 * Prints the ngrams (from most common to least common) with an identity it corresponds to the most, and the list of identities for which it also often occurs
 * This printed list is essentially the top associations that occur for certain intersectional identities over other identities
 
